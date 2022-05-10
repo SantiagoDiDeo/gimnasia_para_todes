@@ -11,9 +11,10 @@
     <link rel="stylesheet" href="Css/Estilos.css">
     <link rel="shortcut icon" href="Recursos/favicon-16x16.png">
     <title>Gimnasia artistica para todes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
-<body>
+<body class="grid__container">
     <header>
         <nav class="header__nav">
             <ul class="header__lista">
@@ -24,20 +25,26 @@
                 <li><a class="header__link" href="Paginas/contacto.html">Contacto</a></li>
             </ul>
         </nav>
-        <img class="header__logo" src="Recursos/android-chrome-192x192.png" alt="logo gimnasia">
-        <h1 class="header__titulo">Gimnasia artistica para todes</h1>
+        <div class="header__tituloLogo">
+            <div>
+                <img class="header__logo" src="Recursos/android-chrome-192x192.png" alt="logo gimnasia">
+            </div>
+            <div class="header__titulo">
+                <h1>Gimnasia artistica para todes</h1>
+            </div>
+        </div>
     </header>
     <main>
         <section class="main__video">
-            <div>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/xG9upTC5dWg?start=15"
-                    title="YouTube video player" frameborder="0"
+            <div class="main__videos">
+                <iframe src="https://www.youtube.com/embed/xG9upTC5dWg?start=15" title="YouTube video player"
+                    frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>
-            <div>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/N-STuFxXqYs?start=4"
-                    title="YouTube video player" frameborder="0"
+            <div class="main__videos">
+                <iframe src="https://www.youtube.com/embed/N-STuFxXqYs?start=4" title="YouTube video player"
+                    frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>

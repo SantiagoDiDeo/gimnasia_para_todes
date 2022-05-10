@@ -3,18 +3,27 @@
     padding: 0px;
 }
 
-
+.grid__container {
+    display: grid;
+    grid-template-rows: 0.3fr 1fr 0.2fr;
+    grid-template-areas: "header header header"
+                        "main main main"
+                        "footer footer footer";
+}
 
 body {
     display: flex;
     flex-direction: column;
     background-image: url(../Recursos/fondo-pantalla.jpg); 
-    background-size: 100%;
     background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-x: hidden;
     
 }
 
 header {
+    grid-area: header;
     display: flex;
     flex-direction: column;
     background-image: url(../Recursos/fondo-gimnasia.jpg) ;
@@ -22,10 +31,12 @@ header {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    box-sizing: content-box;
     
 }
 
 main {
+    grid-area: main;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -44,22 +55,21 @@ main {
 .header__lista {
     display: flex;
     flex-direction: row;
-    background-color: turquoise;
+    background-color: rgb(6, 133, 184);
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     /* word-spacing: 30px; */
     padding-top: 0  px;
     padding-bottom: 0px;
-    padding-left: 21.5%;
-    padding-right: 21.5%;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 
 .header__lista li {
     list-style-type: none;
     display: inline; 
-	padding: 10px;
-	margin: 5px;
+	padding: 1rem;
 }
 
 .header__link {
@@ -81,36 +91,53 @@ li {
 
 .header__logo {
     display: flex;
+    flex-direction: row;
     margin-top:     10px;
+    /* margin-right: 15rem; */
+    align-items: flex-start ;
+    justify-content: start;
     padding: 15px;
-    text-align: start;
+    text-align: center;
     border-radius: 50%;
     width: 130px;
     height: 150px;
     border: 2px solid gray;
     background-color: white;
+
 }
+
 
 /* TITULO */
 
 .header__titulo {
     display: flex;
     flex-direction: row;
-    align-self: center;
+    align-items: center;
     font-family: 'Lobster';
-    font-size: 40px;
-    font-weight: lighter;
+    font-size: 30px;
     text-align: center;
-    border: 2px solid black;
+    color: white;
+    border: 3px solid black;
     border-radius: 60px;
-    margin-bottom: 50px;
+    /* margin-top: 20px;
+    margin-bottom: 20px; */
     padding: 30px;
-    background-color: rgb(0, 110, 110); 
+    background-color: rgb(133, 133, 133); 
+}
+.header__tituloLogo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
 h1 {
-    display: inline;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    font-weight: lighter;
 }
 /* VIDEOS */
 
@@ -119,29 +146,47 @@ h1 {
     flex-direction: column;
     top: 50px;
     margin: 10px;
-    margin-top: 50px;
+}
+
+.main__videos iframe{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 200px;
 }
 
 /* PARRAFO */
 
 .main__parrafo {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: column;
     background-color: rgb(63, 63, 63);
     margin: 30px;
-    margin-top:250px;
+    height: fit-content;
+    margin-top:25px;
     padding: 10px;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+.main__parrafo p{
+    display: flex;
+    flex-direction: column;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     color: white;
     text-align: justify;
-    overflow: hidden;
     justify-content: center;
-    align-items: center;
     text-decoration: dotted;
-    border: 2px solid black;
-    border-radius: 30px;
 }
+
+.main__parrafo {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
 
 .variantes {
     display: flex;
@@ -171,38 +216,48 @@ h1 {
 /* FOOTER */
 
 footer {
-    display: block;
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
 }
 
 .footer__texto {
-    display: block;
-    position: relative;
-    top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     text-align: center;
-    background-color: white;
-    color: aqua;
+    color: white;
+    margin:     auto;
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: black;
-    text-decoration: underline;
+    font-family: 'Lobster';
+
+    text-decoration: none;
     
 }
 
 .footer__redes {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     text-align: center;
-    background-color: white;
+    background-color: black;
     padding-top: 20px;
     padding-bottom: 20px;  
     font-size: 20px;
-    word-spacing: 40px;
+    
 }
 
 .footer__link {
     text-decoration: none;
+    color: white;
+    padding: 7px;
+    border-radius: 30px;
+    border: 2px solid rgb(0, 177, 118);
 }
+
 
 /* APARATOS */
 
@@ -274,18 +329,58 @@ footer {
 
 /* REFERENTES */
 
-.main__referentes {
+.grid__containerRef {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "grid__itemUno grid__itemTres"
+                        "grid__itemDos grid__itemCuatro"
+                        "grid__itemCinco grid__itemSiete"
+                        "grid__itemSeis grid__itemOcho";
+    gap: 1rem;
+}
+
+.grid__itemUno {
+    grid: grid__itemUno;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+}
+
+.grid__itemDos {
+    grid: grid__itemDos;
+    display: flex;
+}
+.grid__itemTres {
+    grid: grid__itemTres;
+    display: flex;
+}
+.grid__itemCuatro {
+    grid: grid__itemCuatro;
+    display: flex;
+}
+.grid__itemCinco {
+    grid: grid__itemCinco;
+    display: flex;
+}
+.grid__itemSeis {
+    grid: grid__itemSeis;
+    display: flex;
+}
+.grid__itemSiete {
+    grid: grid__itemSiete;
+    display: flex;
+}
+.grid__itemOcho {
+    grid: grid__itemOcho;
+    display: flex;
 }
 
 .main__wiki {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;  
     font-size: 20px;
-    margin: 50px;
+    margin: 10px;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
@@ -295,6 +390,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
     text-decoration: none;
     color: white;
     background-color: turquoise;
@@ -363,13 +459,6 @@ footer {
     align-self: center;
 }
 
-
-
-
-
-
-
-
 iframe {
     display: inline;
     margin: 2%;
@@ -380,20 +469,22 @@ iframe {
 /* FORMULARIO */
 
 .main__contacto {
-    display: inline;
+    display: flex;
+    flex-direction: column;
     margin: 40px;
-    padding: 20px;
+    padding: 10px;
     background-image: url(../Recursos/fondo-formulario.jpg);
     background-size: cover;
 }
 
 label {
-    display: inline;
+    display: flex;
+    flex-direction: column;
     color: black;
     margin: 10px;
-    padding: 3px;
+    padding: 5px;
     font-size: 20px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 25px;
     background-color: white;
 }
@@ -401,10 +492,13 @@ label {
 
 
 .main__formularios {
-    display: block;
-    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    margin: 3px;
     color: black;
     font-size: 20px;
+    align-items: center;
+    text-align: justify;
     
 }
 
@@ -423,3 +517,113 @@ label {
 }
 
 
+@media (min-width: 541px) and (max-width: 860px) {
+    .grid__container{
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "header header "
+                        "main main "
+                        "footer footer ";
+    }
+    .header__nav ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__tituloLogo {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__logo {
+        display: flex;
+        align-self: center;
+    }
+
+    .grid__containerRef {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "grid__itemUno grid__itemTres"
+                            "grid__itemDos grid__itemCuatro"
+                            "grid__itemCinco grid__itemSiete"
+                            "grid__itemSeis grid__itemOcho" ;
+    }
+
+    .main__wiki {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__redes {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__nav {
+        position: static;
+    }
+
+}
+
+@media (min-width: 120px) and (max-width: 540px) {
+    .grid__container{
+    grid-template-columns: 1fr;
+    grid-template-areas: "header"
+                        "main"
+                        "footer";
+    }
+    .header__nav ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__tituloLogo {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .main__video {
+        display: flex;
+        flex-direction: column;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main__parrafo{
+        display: flex;
+        flex-direction: column;
+        margin: 30px;
+    }
+
+    .grid__containerRef {
+        grid-template-columns: 1fr;
+        grid-template-areas: "grid__itemUno" 
+                            "grid__itemTres"
+                            "grid__itemDos" 
+                            "grid__itemCuatro"
+                            "grid__itemCinco"
+                            "grid__itemSiete"
+                            "grid__itemSeis" 
+                            "grid__itemOcho" ;
+    }
+
+    .main__wiki {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__redes {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .header__nav {
+        position: static;
+    }
+}   
