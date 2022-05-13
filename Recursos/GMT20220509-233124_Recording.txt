@@ -1,0 +1,939 @@
+01:19:46	Juan Barratines:	sisi
+01:19:51	ANTONELLA ESTRELLA:	sis
+01:21:24	Matias diaz:	buenas noches!!
+01:22:39	[Profesora]Eimy Blanco:	https://github.com/
+01:23:10	Juan Barratines:	es pariente del hombre/oso/cerdo
+01:23:37	Juan Barratines:	yo lo de git todavía no lo pude hacer, stoy sin la pc
+01:23:40	Juan Barratines:	puedo hacer esta cuenta igual, no?
+01:23:51	Juan Barratines:	perfecto
+01:25:23	ANTONELLA ESTRELLA:	jaja
+01:25:28	Gabriel Rossetto:	GabrielSuperSaiyajin69
+01:25:33	[TUTOR] Matias Palladino:	JAJA
+01:25:56	Alexis Delgado:	nombre + apellido + un  numero esta bien?
+01:26:45	juan francisco ojstersek:	No me deja avanzar ….
+01:27:00	Camila Gonzalez:	se me re traba la pagina
+01:27:09	Franco Biondi:	hace falta poner que si en lo de recibir mails?
+01:27:43	ANTONELLA ESTRELLA:	sis
+01:27:43	Ana Paula Rosaschi:	sii
+01:27:43	Marcelo Tavella:	sisi
+01:27:44	Juan Barratines:	sisi
+01:27:46	Franco Biondi:	si
+01:27:47	Ana Paula Rosaschi:	me mandaron un codigo
+01:27:49	Ana Paula Rosaschi:	al correo
+01:27:49	Juan Barratines:	yo estoy en la personalization
+01:27:50	ANTONELLA ESTRELLA:	si
+01:27:52	juan villarreal:	si ya temenos la cuenta
+01:28:00	juan villarreal:	no hay que hacer una nueva
+01:28:09	[TUTOR] Matias Palladino:	No hace falta
+01:28:15	juan villarreal:	gracias
+01:28:18	Bárbara Díaz:	llegue tarde
+01:28:22	Bárbara Díaz:	que debo hacer lo siento
+01:28:22	Ana Paula Rosaschi:	sii
+01:28:25	Alexis Delgado:	listooo
+01:28:28	Daniel Baena:	listoo
+01:28:29	Juan Barratines:	yo ya pase esa parte
+01:28:30	Alexis Delgado:	JOSEMARIA LISTORTI!
+01:28:30	Bárbara Díaz:	okaa
+01:28:36	[Profesora]Eimy Blanco:	https://github.com/
+01:28:39	Juan Barratines:	me pregunta por los miembros q trabajaran
+01:28:50	Ana Paula Rosaschi:	si a mi tamb
+01:28:50	[TUTOR] Matias Palladino:	No hace falta, podes saltearlo Juan
+01:28:52	Juan Barratines:	y si soy estudiante
+01:28:56	Juan Barratines:	ahhh slito
+01:29:03	Juan Barratines:	no lo había visto
+01:29:10	Agustin Toledo Pastrana:	¿Cuántos miembros del equipo trabajarán contigo?
+01:29:13	Agustin Toledo Pastrana:	eso pregunta
+01:29:18	Ana Paula Rosaschi:	lo salteas
+01:29:28	Ana Paula Rosaschi:	fíjate que abajo dice saltear personzalicacion
+01:29:41	Ana Paula Rosaschi:	personalización*
+01:29:54	Agustin Toledo Pastrana:	ni lo vi jajaja
+01:30:07	Daniel Baena:	se puede poner en español?
+01:30:18	gonzalo morilla:	no se puede ya vi
+01:30:22	[TUTOR] Matias Palladino:	Únicamente con el traductor de google automatico
+01:30:24	[TUTOR] Matias Palladino:	no te lo recomiendo
+01:30:28	[Tutor] Joaquín Viretti:	Botón derecho y traducir, pero no será la traducción más fiel
+01:30:34	Daniel Baena:	a bueno, porque no me aparece el traductor de google
+01:30:36	Alexis Delgado:	quiero ponerlo en modo noche yo tambien
+01:30:39	[TUTOR] Eduardo Neira:	úsenlo en ingles
+01:30:43	[Tutor] Joaquín Viretti:	no lo hagan porque traduce comandos jaja
+01:30:55	gonzalo morilla:	da
+01:30:55	Josefina Peninger:	siii
+01:30:56	gonzalo morilla:	si
+01:30:57	Camila Gonzalez:	casi
+01:30:58	Juan Barratines:	sisi
+01:31:01	Andrea León:	si]
+01:31:01	[Tutor] Joaquín Viretti:	Y copian cosas que dicen git empujar origen
+01:31:06	Camila Gonzalez:	listo
+01:31:12	Juan Barratines:	créate e import
+01:31:16	Fabricio Morosini:	create
+01:31:17	Ana Paula Rosaschi:	no me sale
+01:31:21	Nicolas Segobia:	me aparece para crear o importar
+01:31:35	ANTONELLA ESTRELLA:	sis
+01:31:35	Valentin Caudana:	puede hacerlo de vuelta
+01:31:37	Josefina Peninger:	yes
+01:31:39	Juan Barratines:	sisi
+01:31:40	Camila Gonzalez:	sip
+01:31:43	Ana Paula Rosaschi:	profe
+01:31:49	Ana Paula Rosaschi:	puede aumentar un poco de zoom?
+01:31:52	Ana Paula Rosaschi:	no veo ajajjas
+01:32:00	Ana Paula Rosaschi:	gracoass
+01:32:11	ANTONELLA ESTRELLA:	a los nuevos nos dice create file
+01:32:19	Josefina Peninger:	si no tenes nada, figura create repository
+01:32:35	Ana Paula Rosaschi:	estoy en la misma pag
+01:32:37	Camila Gonzalez:	si
+01:32:38	ANTONELLA ESTRELLA:	no puedo creer q voy en la misma q todos jaja
+01:32:39	Juan Barratines:	yo si
+01:32:39	Yair Turco:	sisi
+01:32:40	Cristian Robles:	si
+01:32:40	Alejandro De Souza:	sisi
+01:33:14	Alexis Delgado:	por que el numero?
+01:33:16	[TUTOR] Matias Palladino:	Pongan nombres representantivos de sus proyectos
+01:33:27	Juan Barratines:	descripción hace falta?
+01:33:34	[TUTOR] Matias Palladino:	eviten poner cosas como Proyecto_final o cosas asi
+01:33:41	Ana Paula Rosaschi:	oki
+01:33:46	Martin Toledo Szumowski:	tenemos que poner en el nombre algo relacionado a Coder en esta instancia o ponemos el nombre de la pagina?
+01:33:59	[TUTOR] Matias Palladino:	Preferentemente nombre de la pagina
+01:34:01	[Tutora] Gabriela Rodriguez:	ojo con eso
+01:34:17	[Tutora] Gabriela Rodriguez:	si lo enregan pricvado se considera como entrega vacia
+01:34:23	Ana Paula Rosaschi:	okii
+01:34:26	[Tutora] Gabriela Rodriguez:	*entregan privado
+01:34:33	Willemien Mendoza:	los de hoy se deben entregar en el repositorio?
+01:34:34	Marcelo Tavella:	roger that
+01:34:41	Willemien Mendoza:	o hasta el próximo?
+01:34:44	Ana Paula Rosaschi:	sii
+01:34:44	ANTONELLA ESTRELLA:	sisis
+01:34:47	Alejandro De Souza:	sisi
+01:34:49	Camila Gonzalez:	si
+01:34:57	[Tutora] Gabriela Rodriguez:	los proximos desafios ya se entregan cen github
+01:34:57	[Tutor] Omar Manias:	ojo qcon las entregas vacias o invalidas. ya deberían haber sido notificados por mail con Coder.
+01:34:57	[TUTOR] Matias Palladino:	Will, recorda que las nuevas clases, no modifican los desafíos ya habilitados
+01:35:01	Julián Campagnaro:	perdón, había que tocar algo mas además de ponerlo publico?
+01:35:03	[Tutora] Gabriela Rodriguez:	*con
+01:35:18	[Tutora] Gabriela Rodriguez:	mas nada julian
+01:35:27	Ana Paula Rosaschi:	en que carpeta?
+01:35:29	Ana Paula Rosaschi:	no veo
+01:35:46	Ana Paula Rosaschi:	lo de la clase pasada?
+01:35:55	Yair Turco:	la que te dice master Ana cuando haces Bash
+01:35:58	Facundo Martinez:	no em parece nada de git con click dereho
+01:36:04	Facundo Martinez:	puedo logear desde git bash
+01:36:06	Juan Barratines:	esto ayq hacerlo si o si con el git configurado, no?
+01:36:11	[TUTOR] Matias Palladino:	si Juan
+01:36:22	Julián Campagnaro:	la carpeta .git no me figura
+01:36:26	[TUTOR] Matias Palladino:	Ya deben tener un repositorio local
+01:36:28	[Tutor] Omar Manias:	esta oculta
+01:36:40	Ignacio Bruno:	yo no guarde mis últimos avances en git, no hay drama? solo hasta la clase anterior guarde q fue cuando lo enseñaron
+01:36:40	[Tutor] Omar Manias:	si ya has creado el repo esta oculta
+01:36:43	[Tutora] Gabriela Rodriguez:	pueden arrastrar Tambien la carpeta al git bash y se abre
+01:37:00	Ivo Konstantinow:	repetilo por favor Eimy
+01:37:05	Julián Campagnaro:	ah ok, porque en visual me aparece eso de que figuran los cambios y demás. Pero la carpeta .git dentro de ahí no me aparece. Gracias
+01:37:14	gonzalo morilla:	como sera commit
+01:37:21	gonzalo morilla:	commit "akhsjdhkja"
+01:37:21	[Tutor] Omar Manias:	debes pushearla con el commit
+01:37:24	ANTONELLA ESTRELLA:	ls
+01:37:35	gonzalo morilla:	si si como era el comando
+01:38:02	Leonardo Juventino:	eso es por si no sale la ruta verdad
+01:38:20	Ignacio Bruno:	Eimy podes mostrar como guardar el proceso d nuevo?
+01:38:20	Bruno Realán:	si
+01:38:20	Ivo Konstantinow:	Perfecto
+01:38:21	Martin Toledo Szumowski:	yes
+01:38:21	Camila Gonzalez:	si
+01:38:26	Edgar Hernandez:	si
+01:38:26	Yair Turco:	si
+01:38:26	juan villarreal:	yes
+01:38:26	Nicolás Polo:	si
+01:38:26	Ivan Ortiz Ramirez:	si
+01:38:26	Alejandro De Souza:	sisi
+01:38:26	Andrea León:	si
+01:38:28	Matias Leonel Loglio:	me sale nueva navegación por los últimos cambios de la clase anterior
+01:38:34	Matias Leonel Loglio:	no master
+01:38:40	ANTONELLA ESTRELLA:	me sale todo menos el master del final
+01:38:41	gonzalo morilla:	como es commit?? tengo el linux como pongo la direccion
+01:38:42	Ignacio Bruno:	ok, gracias
+01:38:43	Renzo Yanzon:	A mi no me sale "master" tengo que configurar algo? lo abri directamente en la carpeta
+01:39:17	Renzo Yanzon:	Perfecto
+01:39:26	[TUTOR] Matias Palladino:	Recuerden que para hacer estos pasos, es necesario que avanzaran con lo de la clase pasada.
+01:39:30	ANTONELLA ESTRELLA:	lo hice pero no me sale master
+01:39:39	juan villarreal:	yo estoy hacienda una carpeta por clase la tendre que hacer de nuevo cuando haga mi nuevo desafio verdad?
+01:39:40	ANTONELLA ESTRELLA:	sii
+01:39:44	[TUTOR] Eduardo Neira:	anto que te sale?
+01:39:49	Belén Espindola:	a mi tampoco me sale
+01:39:49	[TUTOR] Eduardo Neira:	main?
+01:39:52	Belén Espindola:	me sale nueva-navegacion
+01:39:54	ANTONELLA ESTRELLA:	una linea nueva
+01:40:16	Belén Espindola:	ahh genial
+01:40:17	Belén Espindola:	muchas gracias
+01:40:22	Juan Barratines:	me la re mande
+01:40:29	Juan Barratines:	como era para eliminar una rama?
+01:40:53	Matias Leonel Loglio:	yo creo q lo fusionamos la ultima clase x eso no nos sale a algunos
+01:41:27	[TUTOR] Matias Palladino:	Si hacen merge una rama, el master les debe figurar igual
+01:41:31	[TUTOR] Matias Palladino:	porque se mergea al mastar
+01:41:34	[TUTOR] Matias Palladino:	master*
+01:41:50	ANTONELLA ESTRELLA:	oki
+01:42:30	Andrea León:	si
+01:42:30	Yair Turco:	sisi
+01:42:31	Juan Barratines:	si
+01:42:32	Gabriel Rossetto:	yes soldier
+01:42:32	Cristian Robles:	si
+01:42:32	Matias Diaz:	afirmativo
+01:42:34	Leonardo Juventino:	si, esa para que es pregunta
+01:42:44	juan villarreal:	perdon me perdi
+01:42:51	juan villarreal:	que fue la primera linea?
+01:43:06	Nicolas Segobia:	eimi
+01:43:12	Nicolas Segobia:	no puse la primera linea
+01:43:13	juan villarreal:	ok gracias
+01:43:18	Nicolas Segobia:	podes decir nuevamente?
+01:43:20	Nicolas Segobia:	ahh dale
+01:43:23	Agustin Toledo Pastrana:	no funcionan los ctrol+c control+v?
+01:43:28	Andrea León:	no
+01:43:33	Juan Barratines:	no, todo con clic
+01:43:41	juan francisco ojstersek:	ponemos git init?
+01:44:56	Martin Toledo Szumowski:	perdón eymi
+01:44:57	juan francisco ojstersek:	no
+01:44:58	Martin Toledo Szumowski:	me perdi
+01:44:58	Iñaki Merino:	sisi
+01:44:59	Andrea León:	si
+01:44:59	Yair Turco:	sisi
+01:45:01	Alejandro De Souza:	sisi
+01:45:02	Sebastián Dalprá:	si
+01:45:02	Martin Toledo Szumowski:	jaja
+01:45:02	Camila Gonzalez:	si
+01:45:05	Leonardo Juventino:	se envió el comando por accidente con el first commit que hago
+01:45:15	juan villarreal:	desde el principio please
+01:45:16	Martin Toledo Szumowski:	en el readme
+01:45:21	Martin Toledo Szumowski:	readme.md
+01:46:28	Lucas Lazo:	Esta andando medio mal zoom o es solo a mi? Se me salió como 5 veces ya
+01:46:40	[TUTOR] Matias Palladino:	a mi me funciona bien
+01:46:41	[Tutora] Mariana Servan:	por acá todo bien
+01:46:42	Juan Barratines:	por aca esta andando bien
+01:46:44	Martin Toledo Szumowski:	esta anndo bien
+01:47:05	Andrea León:	si
+01:47:06	Edgar Hernandez:	si
+01:47:07	Ignacio Bruno:	sisi
+01:47:08	ANTONELLA ESTRELLA:	si
+01:47:09	Juan Barratines:	sisi
+01:47:38	agustin lerer:	profe puse git log
+01:47:42	agustin lerer:	y se me quedo en end
+01:47:48	agustin lerer:	y no me sale de ahi
+01:47:57	agustin lerer:	gracias
+01:48:44	Sebastián Dalprá:	si
+01:48:44	Juan Barratines:	sisi
+01:48:45	Andrea León:	si
+01:48:45	Franco Biondi:	sip
+01:48:46	Camila Gonzalez:	si
+01:48:47	Martin Toledo Szumowski:	ahora si
+01:48:49	Gabriel Rossetto:	pero master taba god :(
+01:49:00	[TUTOR] Matias Palladino:	master esta mal visto
+01:49:26	ANTONELLA ESTRELLA:	no me sale master ni main , sera algo de mac? alguien mas q tiene mac le pasa?
+01:49:28	Gabriel Rossetto:	ok ya no estaba tan god
+01:49:33	[Tutora] Gabriela Rodriguez:	no importa si trabajan en master
+01:49:45	Andrea León:	Y ahora?
+01:49:53	Andrea León:	SE nos desconfiara la pag?
+01:50:35	Edgar Hernandez:	sii
+01:50:35	Andrea León:	si
+01:51:24	Fabricio Morosini:	ni bien lo pegue pasaron varios renglones rapido
+01:51:29	Martin Toledo Szumowski:	me paso
+01:51:31	Andrea León:	Me paso
+01:51:35	Fabricio Morosini:	fabri@DESKTOP-FONDOAV MINGW64 ~/Desktop/rentaride-Morosini (main)$ fabri@DESKTOP-FONDOAV MINGW64 ~/Desktop/rentaride-Morosini (main)bash: syntax error near unexpected token `('fabri@DESKTOP-FONDOAV MINGW64 ~/Desktop/rentaride-Morosini (main)$ $bash: $: command not foundfabri@DESKTOP-FONDOAV MINGW64 ~/Desktop/rentarid
+01:51:47	Juan Barratines:	a mi
+01:51:47	Alexis Delgado:	a mi
+01:51:47	Gabriel Rossetto:	a mi
+01:51:47	ANTONELLA ESTRELLA:	si
+01:51:48	Camila Gonzalez:	a mi
+01:51:48	Andrea León:	si
+01:51:49	Martin Toledo Szumowski:	a mi
+01:51:49	Yair Turco:	a mi en la consola
+01:51:49	Agustin Toledo Pastrana:	si
+01:51:49	Franco Biondi:	a mi
+01:51:50	Andrea León:	A mi
+01:51:50	Joaquin Vannucci Garcia:	a mi
+01:51:53	Ignacio Bruno:	si
+01:51:54	gonzalo morilla:	si
+01:51:54	juan francisco ojstersek:	se me cerro
+01:51:54	Fernando Mendez:	a mi
+01:51:54	ANTONELLA ESTRELLA:	desde el code
+01:51:55	Andres Platino:	a mi tambien
+01:51:56	Renzo Yanzon:	si
+01:51:58	Valentin Caudana:	a mi
+01:51:59	Yair Turco:	Are you sure you want to continue connecting (yes/no/[fingerprint])?
+01:52:03	Yair Turco:	me dice eso en la consola
+01:52:04	Leonardo Juventino:	tambien
+01:52:04	Juan Barratines:	yo tengo exacto esa ventana
+01:52:12	Ignacio Bruno:	me saliio la misma ventana
+01:52:15	Nicolas Segobia:	sing in whit you browesr o sin ing whit a code
+01:52:16	ANTONELLA ESTRELLA:	“The extension 'GitHub' wants to sign in using GitHub.”
+01:52:22	Nicolas Segobia:	eso me aparecio
+01:52:58	Andrea León:	Ya va a mi me aparece un error
+01:53:03	juan francisco ojstersek:	En donde Emy, perdon
+01:53:05	ANTONELLA ESTRELLA:	me esta tardando
+01:53:08	Franco Biondi:	no se puso loca mi consola
+01:53:09	Fabricio Morosini:	no me aparece nada de eso
+01:53:10	Ignacio Bruno:	joya
+01:53:12	Leonardo Juventino:	le doy en authorize git credential manager?
+01:53:14	Andrea León:	Su cuenta ha sido marcada"
+01:53:16	Ignacio Bruno:	me salio todo como a vos
+01:53:17	Matias Diaz:	Eimy... a mi me apareció "remote origin already exists"
+01:53:19	Ivo Konstantinow:	okokok
+01:53:21	Yair Turco:	git@github.com: Permission denied (publickey).fatal: Could not read from remote repository.Please make sure you have the correct access rightsand the repository exists.
+01:53:24	Fabricio Morosini:	donde?
+01:53:30	Yair Turco:	lo autorice y me tira esto ahora..
+01:53:33	Alejandro De Souza:	fatal: the remote end hung up unexpectedly
+01:53:37	juan francisco ojstersek:	A mi se me cerro esta bien?
+01:53:40	Andrea León:	Me sale “su cuenta ha sido marcada"
+01:53:45	Valentin Caudana:	no me carga la pagina
+01:53:52	Alejandro De Souza:	volvemos a ejecutar el comando?
+01:54:38	Alexis Delgado:	Everything up-to-datebranch 'main' set up to track 'origin/main'.
+01:54:40	Matias Diaz:	si, había hecho uno!
+01:54:47	Julián Campagnaro:	Me sale todo igual como a Alexis
+01:54:50	Matias Diaz:	el tema es que lo elimine!
+01:55:01	Matias Diaz:	ok
+01:55:09	Ignacio Bruno:	jajaa la peor mati
+01:55:13	juan francisco ojstersek:	Se me cerro el código Emy antes de copiar la ultima linea...
+01:55:17	Matias Diaz:	pasa que cosas!
+01:55:33	[Profesora]Eimy Blanco:	git push -u origin main
+01:55:51	[TUTOR] Matias Palladino:	Chicos de mi tutoria, si alguno tiene algún problema, para evitar que se pierda entre tantos, hábleme por la plataforma
+01:55:59	Yair Turco:	fatal: The current branch main has no upstream branch.To push the current branch and set the remote as upstream, use    git push --set-upstream origin main
+01:56:03	Yair Turco:	eso me sale con el push
+01:56:03	Alejandro De Souza:	everything up to date
+01:56:04	Andrea León:	“Esta marcado como correo no deseado y por lo tanto no puede autorizar a terceros”
+01:56:08	Valentin Caudana:	fatal: The current branch main has no upstream branch.To push the current branch and set the remote as upstream, use    git push --set-upstream origin main
+01:56:37	Juan Barratines:	perdón me perdi
+01:56:38	Andrea León:	No me deja agregar nada en el codigo
+01:56:39	[Profesora]Eimy Blanco:	git push --set-upstream origin main
+01:56:42	Juan Barratines:	si no me tiro ningún error
+01:56:46	Juan Barratines:	hago lo de git push?
+01:56:50	Edgar Hernandez:	si sale everything up-to-date ya está bien verdad?
+01:56:54	Juan Barratines:	okok
+01:56:58	Fabricio Morosini:	iniciamos con el buscador?
+01:56:59	Andrea León:	Yo cree la cuenta hace tiempo pero nunca la use
+01:57:05	Yair Turco:	git@github.com: Permission denied (publickey).fatal: Could not read from remote repository.Please make sure you have the correct access rightsand the repository exists.
+01:57:17	Andrea León:	Tal vez sea por eso
+01:57:41	[Tutora] Gabriela Rodriguez:	Yair, me parece que te falta el git remote
+01:58:00	Alejandro De Souza:	profe, podría mostrar que respuesta le mostro como efectiva git una vez realizado el comando?
+01:58:10	Yair Turco:	ahora pruebo de nuevo
+01:58:25	ANTONELLA ESTRELLA:	no me salen todo esos codigos
+01:58:27	Fabricio Morosini:	todo ese choclo no me lo smostro
+01:58:29	Juan Barratines:	a mi me lo hizo enmuchisimas menos lineas
+01:58:30	Alejandro De Souza:	excelente, lo ejecute de nuevo y me dio eso
+01:58:30	ANTONELLA ESTRELLA:	me salen muy poquitos
+01:58:31	Juan Barratines:	esta bien igual?
+01:58:32	Alejandro De Souza:	gracias!
+01:58:36	Ignacio Bruno:	por aca todo bien
+01:58:37	ANTONELLA ESTRELLA:	ok!
+01:58:39	Yair Turco:	error: remote origin already exists.
+01:58:39	Franco Biondi:	a
+01:58:39	Juan Barratines:	Enumerating objects: 3, done.Counting objects: 100% (3/3), done.Writing objects: 100% (3/3), 239 bytes | 239.00 KiB/s, done.Total 3 (delta 0), reused 0 (delta 0), pack-reused 0To https://github.com/CapiBarratines/chatnoir.rollerderby.git * [new branch]      main -> mainbranch 'main' set up to track 'origin/main'.
+01:58:39	Fabricio Morosini:	se inicia con el buscador?
+01:58:40	Andres Platino:	sisis
+01:58:46	Yair Turco:	ya está el remote..
+01:58:47	[TUTOR] Matias Palladino:	Juan esta bien eso
+01:58:47	Juan Barratines:	listo
+01:58:47	ANTONELLA ESTRELLA:	ahh oki
+01:58:48	juan francisco ojstersek:	Le damos al botón verde para autorizar?
+01:59:10	Agustin Toledo Pastrana:	el mio dice  compressing objets: y esta cargando
+01:59:14	Fabricio Morosini:	Authentication Succeeded
+01:59:18	Valentin Caudana:	$ git push -u origin mainremote: Repository not found.fatal: repository 'https://github.com/ValentinCaudana/naal-sa./' not found
+01:59:22	Valentin Caudana:	me sale eso
+02:00:18	Andrea León:	Me meti en gmail y me dice que si verifique la cuenta pero sigue estando marcada
+02:00:28	Valentin Caudana:	me sigo tierando el error
+02:00:29	[Tutora] Gabriela Rodriguez:	Valentin, aplicaste el git remote?
+02:00:37	Luz María Cerda A:	A mi después del último ya no me da respuesta la consola
+02:00:39	Cristian Robles:	tengo miedo
+02:00:41	Valentin Caudana:	ahora lo pruebo gabi
+02:00:45	Cristian Robles:	archivos de mi repositorio
+02:00:46	gonzalo morilla:	yo no puedo me pide usuario y contraseña
+02:00:48	Cristian Robles:	en GitHub
+02:00:53	[TUTOR] Matias Palladino:	Luz, mándame captura por la plataforma
+02:00:58	Cristian Robles:	figuran con modificación hace 5 dias
+02:01:16	Alexis Delgado:	sale un aram mientras (?
+02:01:33	Ignacio Bruno:	d una alexis
+02:01:43	gonzalo morilla:	si si pero no me la toma ya me fijo si la estoy escribiendo bien
+02:01:48	Andrea León:	si
+02:01:50	Matias Diaz:	Eimy, creo que pude resolverlo. Estan todos los archivos en la carpeta de GitHub!
+02:02:01	Matias Diaz:	genial!
+02:02:01	Andrea León:	Su cuenta ha sido marcada
+02:02:04	{TUTORA} Verónica Guiñan:	buenas noches, disculpen la tardanza (problema familiar),
+02:02:06	Cristian Robles:	lo que subio es viejo!
+02:02:25	Agustin Toledo Pastrana:	el mio sigue cargando, a todos le demora tanto?
+02:02:26	Cristian Robles:	estoy revisando lo que subio y son archivos viejos, por que es esto?
+02:02:35	[TUTOR] Matias Palladino:	Depende de la cantidad de archivos Agustin
+02:02:40	[TUTOR] Matias Palladino:	no debería tardar mucho
+02:02:41	Alexis Delgado:	a mi también me aparecen archivos de hacer 5 dias
+02:02:52	Andrea León:	No
+02:03:04	Andrea León:	Puede ser no me acuerdo
+02:03:08	Franco Biondi:	yo puse de estudiante y me salio todo
+02:03:33	Yair Turco:	yo también tengo los archivos en git
+02:03:39	Andrea León:	ok
+02:03:40	Cristian Robles:	pero modifique mis archivos
+02:03:41	Yair Turco:	pero me sigue tirando el error de las publickeys
+02:03:52	Yair Turco:	git@github.com: Permission denied (publickey).fatal: Could not read from remote repository.Please make sure you have the correct access rightsand the repository exists.
+02:04:29	[TUTOR] Matias Palladino:	Yair, tu mail es el mismo en GitHub que en Git?
+02:04:40	Yair Turco:	sisi
+02:04:41	Yair Turco:	el mismo
+02:05:32	Yair Turco:	si
+02:06:25	Julián Campagnaro:	esto del ssh todos lo hacmeos?
+02:06:30	[TUTOR] Matias Palladino:	No julian
+02:06:31	[Tutora] Mariana Servan:	no
+02:06:38	[TUTOR] Matias Palladino:	Los que están teniendo problemas de autenticacion
+02:06:42	[Profesora]Eimy Blanco:	$ ssh-keygen -t rsa -b 4096 -C "mimail@mail.com"
+02:06:45	Yair Turco:	okei
+02:07:07	[Profesora]Eimy Blanco:	cat ~/.ssh/id_rsa.pub
+02:08:04	Yair Turco:	Eimy
+02:08:09	Yair Turco:	estoy ahi
+02:08:41	Fabricio Morosini:	ni bien pego el comando se me ejecuta
+02:08:46	Fabricio Morosini:	no me deja cambiar el mail
+02:09:27	[Tutor] Omar Manias:	puedes dejarlo en blanco me parece
+02:09:39	Fabricio Morosini:	perdón, pensé que no se me veía el repositorio
+02:09:41	Juan Barratines:	okok
+02:09:43	Alexis Delgado:	daleee
+02:09:43	Iñaki Merino:	oka
+02:09:44	Franco Biondi:	perfecto
+02:09:44	Leonardo Juventino:	ok
+02:09:45	Alejandro De Souza:	genial profe
+02:09:50	Yair Turco:	sii
+02:09:51	Bruno Realán:	me parece
+02:09:55	Yair Turco:	ahí estoy
+02:10:19	Nicolas Segobia:	eim,  ami me dice que localhost rechao la conexion
+02:10:52	Yair Turco:	cat: /c/Users/Usuario/.ssh/id_rsa.pub: No such file or directory
+02:10:57	Ignacio Scocco:	vamos a un break entonces?
+02:11:00	Andrea León:	Profe ya me cree uno nuevo y cree el repositorio ahora como le doy para atrás en el código de bash here?
+02:11:06	Juan Barratines:	21.33?
+02:11:07	Franco Biondi:	bueno
+02:11:12	Juan Barratines:	listo
+02:11:39	Belén Espindola:	profe, yo me quede justo sin luz después del ultimo git push en la consola, le puedo pedir los comandos que le siguen?
+02:12:09	juan villarreal:	pongan a leo dan o palito Ortega jajaja
+02:12:11	Belén Espindola:	porque vi que decía algo de keygen pero no llegue a leerlo
+02:12:14	juan villarreal:	o elio roca de venezuela
+02:12:45	juan francisco ojstersek:	Emy como hago para saber si mi proyecto subio correctamente?
+02:13:18	Andrea León:	Profe ya me cree uno nuevo y cree el repositorio ahora como le doy para atrás en el código de bash here?
+02:13:40	Belén Espindola:	profe, yo me quede justo sin luz después del ultimo git push en la consola, le puedo pedir los comandos que le siguen?
+02:14:03	Andrea León:	No entiendo
+02:14:13	Cristian Robles:	quiero actulizar los archivos tengo que hacer un commit y después una subida?
+02:14:27	Andrea León:	Ya me cree el GitHub nuevo en otro correo
+02:14:39	Andrea León:	si
+02:15:00	Andrea León:	Pero en la consola ya estaba por la penultima
+02:15:21	Andrea León:	ok
+02:15:22	Matias Diaz:	Eimy, si tengo dos branch en git, pero en GitHub me figura uno solo, tengo que posicionarme en el otro branch y pushearlo?
+02:15:27	Belén Espindola:	profe, yo me quede justo sin luz después del ultimo git push en la consola, le puedo pedir los comandos que le siguen?
+02:15:43	Franco Biondi:	profe una pregunta, en algún lado hay un programa de lo que estamos viendo en el curso? necesito uno
+02:15:54	Belén Espindola:	ahhh lei algo de un keygen y no sabia si me había perdido mucho
+02:15:59	Belén Espindola:	muchas gracias!!
+02:16:11	Yair Turco:	Eimy.. lo logré creo
+02:16:14	Yair Turco:	quedé en el push
+02:16:14	Franco Biondi:	ah ok gracias
+02:16:21	Yair Turco:	git hub sign in
+02:16:40	Yair Turco:	me pide el token
+02:16:54	Andrea León:	No, me sigue sin dejar escribir
+02:17:04	Andrea León:	Ya le di y nada
+02:17:14	Andrea León:	listo]
+02:17:16	[Profesora]Eimy Blanco:	https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+02:17:30	Yair Turco:	genial
+02:17:33	Yair Turco:	sigo, te aviso cualquier cosa
+02:17:55	Andrea León:	Claro no me deja porque había creado el anterior
+02:18:06	Andrea León:	Del otro correo
+02:19:01	[Profesora]Eimy Blanco:	git config --global email tunueva@gmail.com
+02:19:21	[Profesora]Eimy Blanco:	git config --global user.email
+02:19:49	Andrea León:	Enel primero o el segundo?
+02:19:57	[Profesora]Eimy Blanco:	git config --global user.email tuemail
+02:19:57	Yair Turco:	listo Eimy
+02:19:59	Yair Turco:	logradoo
+02:20:03	Yair Turco:	graciass
+02:20:09	Yair Turco:	menos mal jaja
+02:20:10	[Tutora] Gabriela Rodriguez:	😅
+02:20:28	{TUTORA} Verónica Guiñan:	paciencia con git
+02:20:36	Andrea León:	listo
+02:20:47	[Profesora]Eimy Blanco:	git remote set-url tu-url
+02:21:17	Renzo Yanzon:	Ya hice la autenticación, en mi GitHub me aparece en "code" solo la subida inicial que configuré. No me deberían aparecer todas las carpetas (paginas, recursos, css,etc)?
+02:21:52	Andrea León:	Cual apareció push add y delete
+02:21:53	[Tutora] Gabriela Rodriguez:	Asistencia pasada, todos presentes
+02:21:57	Renzo Yanzon:	No hice el git hub solo creo, lo puedo hacer ahora?
+02:21:58	Andrea León:	Y cosas a los lados
+02:22:01	[TUTOR] Matias Palladino:	Lo mismo! Todos presentes!
+02:22:03	{TUTORA} Verónica Guiñan:	igual q gaby
+02:22:13	Andrea León:	Como cual?
+02:22:15	[Profesora]Eimy Blanco:	git remote set-url origin https://git-repo/new-repository.git
+02:22:29	Luca March Ficarra:	si
+02:22:30	Jorge Camacho:	si
+02:22:31	Ignacio Scocco:	si
+02:22:31	Andres Platino:	sisis
+02:22:31	Leonardo Juventino:	si
+02:22:32	Alejandro De Souza:	sisi
+02:22:32	Martin Toledo Szumowski:	estamos
+02:22:35	Valentin Caudana:	sii
+02:22:35	Juan Barratines:	estoy
+02:22:35	[TUTORA] Abril Aiello:	Tamo aca jajajja
+02:22:38	Sandra Quevedo:	sisi
+02:22:40	Luca March Ficarra:	yz
+02:22:41	juan villarreal:	nos encanta la mala vida ya volvimos
+02:22:45	gonzalo morilla:	si si
+02:22:45	Matias Leonel Loglio:	sisi
+02:22:46	Leonardo Juventino:	si :=
+02:22:47	Valentin Caudana:	no me figuran las carpetas
+02:22:49	Alejandro De Souza:	sisi
+02:22:49	Juan Barratines:	no
+02:22:49	Joaquin Vannucci Garcia:	sipi
+02:22:50	Renzo Yanzon:	Yo no veo mis carpetas,
+02:22:52	Martin Toledo Szumowski:	si, se ve asi
+02:22:53	ANTONELLA ESTRELLA:	a mi tampoco
+02:22:53	Juan Barratines:	solo veo el readme
+02:22:54	Camila Gonzalez:	si
+02:22:58	Leonardo Juventino:	omg esta piola
+02:23:05	Fernando Mendez:	si si
+02:23:08	Francisco Zilberman:	Yo lo veo doble
+02:23:17	Andrea León:	Para mi?
+02:23:20	Juan Barratines:	después del add . no me salio nada
+02:23:29	Andrea León:	si
+02:23:41	[Tutora] Melisa Ferreyra:	despues de git add .
+02:23:50	[TUTOR] Eduardo Neira:	juan después del add hay que hacer el commit
+02:23:50	[Tutora] Melisa Ferreyra:	git commit -m" mensaje"
+02:23:59	Andrea León:	Si me apareció unas cosas de push delete y add
+02:24:03	Alexis Delgado:	coimo es el orden?
+02:24:04	Valentin Caudana:	podes repetirlo eimy
+02:24:06	Alexis Delgado:	primero git add
+02:24:15	ANTONELLA ESTRELLA:	sis
+02:24:22	ANTONELLA ESTRELLA:	y despues de git add .?
+02:24:23	[Profesora]Eimy Blanco:	git push -u origin main
+02:24:29	Juan Barratines:	ya había hehco el commit
+02:24:31	Alexis Delgado:	me perdí
+02:24:33	Juan Barratines:	lo hagode nuevo?
+02:24:42	ANTONELLA ESTRELLA:	sis
+02:24:47	Alexis Delgado:	a mi me salen pero de hace 5 dias
+02:24:50	Leonardo Juventino:	Para el desafio de la semana pasada aun hay para recibir calificación hoy verdad, es que a mi no me han calificado y lo subí la semana pasada el viernes temprano
+02:25:01	[Profesora]Eimy Blanco:	git add .git commit -m "mensaje"git push
+02:25:03	[TUTOR] Matias Palladino:	Leonardo, te deje la respuesta en el canal de la tutoria.
+02:25:11	[Profesora]Eimy Blanco:	git add .git commit -m "mensaje"git push
+02:25:15	[TUTOR] Matias Palladino:	Te recuerdo, que tenemos 72hs hábiles para hacer correcciones.
+02:25:21	Juan Barratines:	listo
+02:25:23	Andrea León:	Eimy le doy a authorize cierto?
+02:25:37	Belén Espindola:	después del git add . no me aparece nada
+02:25:38	Martin Toledo Szumowski:	a mi me aparece todo en rojo "modified"
+02:25:40	Martin Toledo Szumowski:	es normal no?
+02:25:41	Renzo Yanzon:	Perfecto, ahora salen las carpetas
+02:26:01	Renzo Yanzon:	el push que función cumple?
+02:26:01	ANTONELLA ESTRELLA:	no me salen las carpetas
+02:26:05	Francisco Zilberman:	Donde a vos te dice curseros, a mi me dice el nombre de mi proyecto dos veces
+02:26:06	Belén Espindola:	genial gracias!!
+02:26:07	Andrea León:	La pantalla se me quedo negra 🙁
+02:26:09	Francisco Zilberman:	Uno arriba del otro
+02:26:23	ANTONELLA ESTRELLA:	solo me sale el nombre q le puse
+02:26:27	Francisco Zilberman:	Joya
+02:26:36	Agustin Toledo Pastrana:	ami no me sale eso!!
+02:26:40	ANTONELLA ESTRELLA:	ok
+02:26:46	ANTONELLA ESTRELLA:	sis
+02:26:49	ANTONELLA ESTRELLA:	si
+02:26:56	ANTONELLA ESTRELLA:	gabriela
+02:27:05	ANTONELLA ESTRELLA:	ok! gracias
+02:27:06	[Tutora] Gabriela Rodriguez:	aqui estoy
+02:27:44	Juan Barratines:	2 minutes ago
+02:27:55	Juan Barratines:	es normal?
+02:28:15	[Profesora]Eimy Blanco:	https://github.com/EimyCB/curseros_37115
+02:28:59	Yair Turco:	si
+02:29:00	Edgar Hernandez:	sii
+02:29:00	Alejandro De Souza:	sisi
+02:29:00	Camila Gonzalez:	si
+02:29:02	Juan Barratines:	sisi
+02:29:08	Luca March Ficarra:	No me sale Settings.
+02:29:11	juan francisco ojstersek:	No vi perdon
+02:29:12	[TUTORA] Sol Ianardi:	Juan porque no lo tenías configurado
+02:29:58	Yair Turco:	si
+02:29:59	Alejandro De Souza:	sisi
+02:29:59	Alexis Delgado:	see
+02:30:02	Andres Platino:	yo tengo vacio pages
+02:30:02	Juan Barratines:	sisi
+02:30:02	Martin Toledo Szumowski:	si
+02:30:42	Juan Barratines:	hice clic ahí, me tira un error 404
+02:30:50	Mario:	con cada pagina o proyecto que creamos hay que linkearlo de esta manera a GitHub?
+02:30:55	Juan Barratines:	LA ansiedad
+02:31:00	Leonardo Juventino:	puede repetir
+02:31:01	Agustin Toledo Pastrana:	de nuevo, después de main
+02:31:11	Ignacio Bruno:	de buei
+02:31:14	Ignacio Bruno:	a q le diste?
+02:31:33	[TUTORA] Abril Aiello:	Si quieren subirlo a GitHub si Mario
+02:31:38	Cristian Robles:	esta nuestra pagina
+02:31:41	Cristian Robles:	genial
+02:31:59	Juan Barratines:	ahora si
+02:32:04	[Profesora]Eimy Blanco:	https://eimycb.github.io/curseros_37115/
+02:32:10	Martin Toledo Szumowski:	esaaaaa
+02:32:14	Andres Platino:	podrá repetir ?
+02:32:16	Juan Barratines:	harmoso
+02:32:20	Gabriel Rossetto:	a ver pasen sus páginas!! :)
+02:32:21	Ignacio Scocco:	me perdi después de guardar la branch
+02:32:22	Alexis Delgado:	me aparece sin los últimos cambios
+02:32:25	Alexis Delgado:	como actualizo?
+02:32:32	Ignacio Bruno:	me aparece sin los cambios de css
+02:32:36	[TUTORA] Sol Ianardi:	Van a poder checkear el responsive desde el celu ;)
+02:32:39	Fabricio Morosini:	me figura la pagina pero le faltan cambios que hce
+02:32:48	Ignacio Scocco:	me dice is ready to be published
+02:32:51	[TUTORA] Sol Ianardi:	Igna fíjate que esté bien linkeado el css
+02:33:06	Andres Platino:	gracias
+02:33:06	Cristian Robles:	debe ser que nos falta un commit
+02:33:10	Ivo Konstantinow:	pero que peoula
+02:33:11	Cristian Robles:	me pasa lo mismo
+02:33:12	Alexis Delgado:	hago un commit?
+02:33:12	Ignacio Scocco:	aaah si perfecto gracias
+02:33:14	Alexis Delgado:	no entiendo
+02:33:17	Julián Campagnaro:	consulta, si estoy trabajando en un archivo paralelo, con solo reemplazar los archivos en mi carpeta de escritorio, se actualiza todo? Si mantengo nombre de archivos. Me explico?
+02:33:18	Ivo Konstantinow:	hermoso
+02:33:26	Andrea León:	Tengo una pregunta como cree un email nuevo ya no tengo nada de lo que guarde esta semana en gut bash here?
+02:33:30	Martin Toledo Szumowski:	un add . para que guarde los cambios?
+02:33:30	Alexis Delgado:	me aparece como estaba la pagina hace 5 dias
+02:33:31	[TUTORA] Abril Aiello:	Mucha atención al tema rutas con GitHub pages. A veces sucede que tienen una carpeta nombrada con inicial mayuscula por jeemplo y GitHub no la reconoce. Mas que nada si luego en la ruta citan a la carpeta con minúscula. Me explico o hice lio?
+02:33:33	Alexis Delgado:	no lo nuevo que hice
+02:33:40	Agustin Toledo Pastrana:	me da error el link
+02:33:44	Ignacio Bruno:	eimy podrias ostrar rápido como guardar los cambios en git? para corroborar mas q nada
+02:33:46	Camila Gonzalez:	a mi me pasa lo mismo alexis
+02:33:50	Martin Toledo Szumowski:	me pasa lo mismo que alexis
+02:33:52	[TUTOR] Matias Palladino:	Lo nuevo que hiciste Alexis, cuando fue que lo hiciste?
+02:33:57	[TUTOR] Matias Palladino:	hace 5 días?
+02:33:59	Martin Toledo Szumowski:	ahora lo veo con el celu y no esta actualizado
+02:33:59	Iñaki Merino:	cualquier cambio que hagan en los archivos los tienen que actualizar desde la consola git bash con el comando git add .
+02:34:00	Luz María Cerda A:	Donde busco los archivos?
+02:34:00	Alexis Delgado:	en estos últimos dias
+02:34:07	[TUTOR] Matias Palladino:	hiciste el commit de lo ultimo que hiciste?
+02:34:10	Cristian Robles:	yo trabaje mucho ayer
+02:34:11	Alexis Delgado:	no
+02:34:15	[TUTOR] Matias Palladino:	ahi esta la respuesta
+02:34:16	Andrea León:	Es que puse git status y dice que no se encontró ningún commit
+02:34:21	Cristian Robles:	y los cambios que figuran son de la semana pasada
+02:34:24	Andres Platino:	claro a mi no me aparece lo ultimo que hice por que no hice el comit de los cambios
+02:34:25	Alexis Delgado:	hago un commit entonces?
+02:34:30	Leonardo Juventino:	donde se veía para saber que ya se cargó?
+02:34:33	[TUTOR] Matias Palladino:	y si, porque si no, nunca va a subirse lo actual
+02:34:40	Andrea León:	cierto
+02:34:43	[TUTOR] Matias Palladino:	cuando vos haces un git push, estas subiendo el ultimo commit realizado
+02:34:46	Edgar Hernandez:	ya se cargó la mia wuuu
+02:34:48	Julián Campagnaro:	consulta, si estoy trabajando en un archivo paralelo, con solo reemplazar los archivos en mi carpeta de escritorio, se actualiza todo? Si mantengo nombre de archivos. Me explico?
+02:34:51	[TUTOR] Matias Palladino:	independientemente de los cambios nuevos que realizaste
+02:34:54	Cristian Robles:	con GIT STATUS ME SALE TODO EN ROJO
+02:35:03	Alexis Delgado:	entonces hago git add y después git commit?
+02:35:09	[Profesora]Eimy Blanco:	git add .
+02:35:10	[TUTOR] Matias Palladino:	exacto
+02:35:21	[Profesora]Eimy Blanco:	got commit -m "descripción de los cambios"
+02:35:24	[Profesora]Eimy Blanco:	git push
+02:35:26	Ignacio Bruno:	le puse git add
+02:35:31	[TUTOR] Matias Palladino:	Repasen la clase pasada también en cuanto puedan chicos.
+02:35:32	Ignacio Bruno:	pero no me aparece lo ulimo
+02:35:33	Jorge Camacho:	eso  github-pages se puede para un repositorio, no ?
+02:35:54	juan francisco ojstersek:	Como hacemos para guardar los cambios?
+02:35:58	Nicolas Segobia:	eimi, consulta, hice unos cambios 7que ahora no están en gihub, porque puede ser?
+02:36:01	Martin Toledo Szumowski:	en git push como era?
+02:36:05	Andrea León:	Donde veo que tenga el proyecto en el github
+02:36:11	Martin Toledo Szumowski:	y enter?
+02:36:17	Camila Gonzalez:	okey mati, gracias
+02:36:33	Andrea León:	si
+02:36:43	Andrea León:	Pero adentro no me aprece
+02:36:44	Fabricio Morosini:	como hago para actualizarle los cambios que vengo haciendo?
+02:37:12	juan francisco ojstersek:	No me deja guardar con control S
+02:38:02	[Tutor] Joaquín Viretti:	Recuerden que a partir del próximo desafío no usamos más .zip para las entregas (:
+02:38:13	Leonardo Juventino:	git push para subir al GitHub no?
+02:38:15	Ignacio Bruno:	eimy no me figura el css en el github
+02:38:17	[TUTOR] Matias Palladino:	Si Leo
+02:38:19	Juan Barratines:	listo
+02:38:20	Ignacio Bruno:	cuando la abro
+02:38:22	Juan Barratines:	tatuado en la frente
+02:38:27	Ignacio Bruno:	no me figura nada del css
+02:38:29	Martin Toledo Szumowski:	puede ser que tarde en actualizar?
+02:38:32	[TUTOR] Matias Palladino:	Ignacio, debes tener algún problema en la ruta
+02:38:39	Alexis Delgado:	hice todo pero no se me actualiza :(
+02:38:47	Ignacio Bruno:	como lo soluciono?
+02:38:56	Fabricio Morosini:	es commit espacio -m?
+02:38:58	Joaquin Vannucci Garcia:	una pregunta, si yo hago un cambio y no me gusta y quiero ir para atrás, como seria?
+02:39:01	Nicolas Segobia:	hice unos cambios y apreté ctl+s, pero nunca lo guarde en giit, puede ser que por eso ahora no tengo los cambios?
+02:39:04	[TUTOR] Matias Palladino:	Ignacio, pasa el link de tu repositorio un segundo
+02:39:29	Joaquin Vannucci Garcia:	lo mejor seria ir creando ramas igual no?
+02:40:34	Cristian Robles:	se hizo pelota el sitio
+02:40:35	Cristian Robles:	xD
+02:40:45	Ivo Konstantinow:	para cuando terminamos con los cambios
+02:40:53	Matias Diaz:	Eimy, pero para subir la nueva rama solo lo pusheas?
+02:41:08	[TUTOR] Eduardo Neira:	los que tienen problemas con los estilos del sitio, pasen los enlaces del repositorio
+02:41:19	[TUTOR] Eduardo Neira:	asi podemos ver que es lo que esta fallando
+02:41:19	Fernando Mendez:	consulta, antes de empezar a editar el código ahora debería crear una rama?
+02:41:38	Alexis Delgado:	ya hice el commit y el push pero en la pagina no se ven los cambios
+02:41:47	juan villarreal:	el desafio que temenos que entregar de essto que diferencia hay con lo que se acaba de hacer?
+02:41:50	Cristian Robles:	de a poco se esta acomodando
+02:41:55	[TUTOR] Matias Palladino:	luego de hacer el push Alexis, tarda un rato en actualizarse
+02:42:00	Fernando Mendez:	ok
+02:42:00	Juan Barratines:	eso no me quedo claro
+02:42:03	Juan Barratines:	de la clase anterior
+02:42:04	Alexis Delgado:	ahh, gracias
+02:42:04	[TUTOR] Matias Palladino:	si ves que tarda demasiado, actualiza la pagina con Ctrl R
+02:42:10	Juan Barratines:	si cambio de rama, trabajo sobre los mismos archivos en el visual?
+02:42:11	Yair Turco:	la rama la vamos a ver en git recién cuando hagamos push no?
+02:42:15	Yair Turco:	me perdí
+02:42:19	Alexis Delgado:	AHORA SI
+02:42:27	Juan Barratines:	en una nueva carpeta?
+02:42:33	Yair Turco:	claro.. pero la puedo subir al github
+02:42:44	Jorge Camacho:	el comando git merge que hacia ?
+02:42:59	Cristian Robles:	no me carga las fuentes externas de un sitio similar a google fonts
+02:43:02	[TUTOR] Matias Palladino:	Repasen la clase pasada chicos. Git merge fusiona las ramas
+02:43:29	Gabriel Rossetto:	podemos usar gitKraken o es obligatorio usar la consola de git bash?
+02:43:43	juan villarreal:	agregar al staging?
+02:44:07	Leonardo Juventino:	To https://github.com/TCT1/ljv_blog.git ! [rejected]        main -> main (fetch first)error: failed to push some refs to 'https://github.com/TCT1/ljv_blog.git'hint: Updates were rejected because the remote contains work that you dohint: not have locally. This is usually caused by another repository pushinghint: to the same ref. You may want to first integrate the remote changeshint: (e.g., 'git pull ...') before pushing again.hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+02:44:12	Leonardo Juventino:	me sale esto
+02:44:13	Martin Toledo Szumowski:	es el pan de cada dia
+02:44:17	[TUTORA] Abril Aiello:	La practica va a hacer que se los acuerden
+02:44:20	Iñaki Merino:	nos los aprendedmos a la fuerza al final
+02:44:43	Ignacio Bruno:	no se q me salio mal q no me aparecen los cambios d css(ninguno)
+02:44:50	[TUTORA] Abril Aiello:	Anotenselos en un papelito y ténganlo al lado sino
+02:44:57	[TUTOR] Matias Palladino:	Ignacio, te pedi anteriormente que me pases el link de tu repositorio para poder darte una mano
+02:45:06	Ignacio Bruno:	disculpa mati no lei
+02:45:10	Ignacio Bruno:	https://github.com/Ignacio-Bruno/gamersports_coderhouse
+02:45:10	juan villarreal:	va a ser el padre nuestro de cada dia
+02:45:14	[TUTOR] Matias Palladino:	tranqui, pensé lo habias solucionado xD
+02:45:23	Mario:	para eliminar?
+02:45:24	Juan Barratines:	el de git brach es una I o una L?
+02:45:43	agustin lerer:	profe yo modifique un color y no se modifica en github
+02:46:03	Iñaki Merino:	no solo tenes que guardar en local
+02:46:04	[TUTOR] Matias Palladino:	Ignacio, el problema es que GitHub es sensible a mayúsculas y minúsculas. Tu directorio tiene mayúsculas y la ruta de tu css esta en minusculas
+02:46:04	[TUTORA] Sol Ianardi:	Agus demora un poco en reflejar los cambios
+02:46:06	Iñaki Merino:	el giyhub es una red
+02:46:08	Fabricio Morosini:	yo tampoco veo los cambios que realize
+02:46:35	Juan Barratines:	esta sin guardar el visual
+02:46:35	Ignacio Bruno:	claro, me imagine q iba por ahi
+02:46:37	[TUTOR] Eduardo Neira:	Ignacio la carpeta css en la estructura del proyecto comienza con mayúscula y en la ruta esta con minúscula
+02:46:38	Camila Gonzalez:	si
+02:46:45	juan francisco ojstersek:	Eimy me actualizo algunos cambios, pero no todos...
+02:46:55	Ignacio Bruno:	como lo arreglo? le cambio la mayúscula en mi carpeta ?
+02:47:02	[TUTOR] Eduardo Neira:	si
+02:47:04	[TUTOR] Matias Palladino:	seria lo idea
+02:47:11	Ignacio Bruno:	okey
+02:47:13	[TUTOR] Eduardo Neira:	y haces un git add .
+02:47:21	Ignacio Bruno:	y dps lo tendría q cambiar en el visual?
+02:47:25	[TUTOR] Eduardo Neira:	git commit -m "cambie nombre de carpeta css"
+02:47:30	Ignacio Bruno:	porq todo esta linkeado a esa carpeta d Css
+02:47:32	[TUTOR] Matias Palladino:	no, en el código esta bien
+02:47:38	Ignacio Bruno:	okey
+02:47:39	Ignacio Bruno:	pruebo
+02:47:43	[TUTOR] Eduardo Neira:	y git push
+02:47:46	[TUTOR] Matias Palladino:	en tu código tu css dice: css/estilos.css
+02:47:50	[TUTOR] Matias Palladino:	pero tu carpeta se llama Css
+02:47:57	[TUTOR] Matias Palladino:	con cambiarle la mayúscula es suficiente
+02:48:13	Leonardo Juventino:	--set que?
+02:49:18	agustin lerer:	si o si hay que poner un commit para que se suba ?
+02:49:18	Leonardo Juventino:	pasó eso por editar en el main? es que no quise hacer una rama aparte porque era un cambio insignificante
+02:49:45	agustin lerer:	gracias profe
+02:49:46	[TUTOR] Matias Palladino:	O si haces la modificación desde GitHub
+02:49:51	Silvia Ana Bobba:	Y como lo vemos en la rama ?
+02:49:58	Leonardo Juventino:	no lo hice en visual
+02:50:03	Ignacio Bruno:	mati vos te referis a q le cambie en mi carpeta de la compu o la de mi perfil de GitHub? porq ya lo cambie en mi pc y puse git add . y dps git hub y no paso nada
+02:50:06	Nicolas Segobia:	eimi, pongo git status y me pone en rojo los cambios, cuando pongo git add. no me los acepta
+02:50:09	[Profesora]Eimy Blanco:	git pull
+02:50:11	Nicolas Segobia:	que haago?
+02:50:36	Nicolas Segobia:	perfecto
+02:50:43	Nicolas Segobia:	después del add . ?
+02:50:46	juan francisco ojstersek:	Puede ser que actualice los cambios muy paulatinamente?
+02:50:50	Nicolas Segobia:	va el git push¡
+02:50:52	Nicolas Segobia:	?
+02:51:14	Leonardo Juventino:	me sale esto
+02:51:15	Leonardo Juventino:	Merge branch 'main' of https://github.com/TCT1/ljv_blog# Please enter a commit message to explain why this merge is necessary,# especially if it merges an updated upstream into a topic branch.## Lines starting with '#' will be ignored, and an empty message aborts# the commit.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+02:51:43	[TUTOR] Eduardo Neira:	Leo
+02:51:55	Alexis Delgado:	que dura esta clase
+02:51:55	[TUTOR] Eduardo Neira:	tienes que hacer un commit en la rama nueva
+02:51:57	Alejandro De Souza:	sisi
+02:52:01	Leonardo Juventino:	ok
+02:52:09	[TUTOR] Eduardo Neira:	osea el mismo proceso que haces al realizar un cambio
+02:52:12	[TUTOR] Eduardo Neira:	git add .
+02:52:22	Martin Toledo Szumowski:	tenes que fusionarlos para que se vean no?
+02:52:25	[TUTOR] Eduardo Neira:	git commit -m "mensaje"
+02:52:39	Leonardo Juventino:	ok
+02:52:49	[TUTOR] Eduardo Neira:	una vez ahí te cambias a la rama principal y haces el git merge
+02:52:54	Yair Turco:	sisi
+02:52:55	Iñaki Merino:	sisi
+02:53:00	Camila Gonzalez:	si
+02:53:01	Matias Diaz:	si, perfecto Eimy!
+02:53:49	Juan Barratines:	no, pero no hice cambios yo
+02:53:52	Leonardo Juventino:	no
+02:53:54	Agustin Toledo Pastrana:	noo
+02:53:55	ANTONELLA ESTRELLA:	no
+02:54:36	Andres Platino:	es como la paradoja de volver al futuro
+02:54:47	Ivo Konstantinow:	xd
+02:54:50	Fernando Mendez:	termina siendo DARK esto..
+02:54:57	Camila Gonzalez:	jajaja
+02:55:07	Martin Toledo Szumowski:	si
+02:55:08	Cristian Robles:	si
+02:55:09	Juan Barratines:	creoq dark se entendio mas facil
+02:55:10	Matias Diaz:	si, se ve
+02:55:43	[TUTOR] Matias Palladino:	(como dibuja tan bien?)
+02:55:50	ANTONELLA ESTRELLA:	lo mismo pense
+02:55:51	Cristian Robles:	pensaba lo mismo
+02:55:53	Alejandro De Souza:	(pensé lo mismo)
+02:55:54	ANTONELLA ESTRELLA:	jajaja
+02:55:55	Valentin Caudana:	es impresionante
+02:55:55	Juan Barratines:	la practica para dibujar con el mouse
+02:56:00	Camila Gonzalez:	me pregunte lo mismo
+02:56:02	Nicolás Polo:	Es hacker
+02:56:05	Matias Diaz:	tiene pad y lápiz... si no, imposible! jaja
+02:56:07	ANTONELLA ESTRELLA:	claaaaa
+02:56:17	Andres Platino:	tiene el pad
+02:56:22	[TUTOR] Matias Palladino:	Ojo con eso que esta diciendo, es super crucial
+02:57:50	ANTONELLA ESTRELLA:	se me va a explotar la cabeza
+02:58:19	Martin Toledo Szumowski:	entonces sirve hacer ramas para esta instancia que trabajamos solos?
+02:58:38	Martin Toledo Szumowski:	solo actualizamos el GitHub cuando estamos seguros
+02:59:18	Ivo Konstantinow:	van dejando las ramas atras
+03:00:05	Cristian Robles:	ya no seria culpa nuestra
+03:00:58	Camila Gonzalez:	🤯
+03:01:27	Martin Toledo Szumowski:	y si en la rama pones cambio de color a rosa al header y en el main nuevo cambio de color a violeta al header a cual hace caso?
+03:01:28	Juan Barratines:	sisi
+03:01:28	Matias Diaz:	si si, se entendio!!
+03:02:01	Nicolas Segobia:	Eimi, super recordatorio, cada vez que hagamos modificaciones y las terminemos hay que guardarlo en git, no?
+03:02:18	Martin Toledo Szumowski:	la ultima vez que se sobreescribe
+03:02:28	[Profesora]Eimy Blanco:	git add .
+03:02:36	[Profesora]Eimy Blanco:	git commit -m "descripción"
+03:02:37	Nicolas Segobia:	perfecto
+03:02:39	[Profesora]Eimy Blanco:	git push
+03:02:47	[TUTOR] Eduardo Neira:	esto lo pueden hacer al finbalizar el dia o una tarea en especifica
+03:02:57	[TUTOR] Eduardo Neira:	no cada vez que hagan control s
+03:03:07	Sebastián Dalprá:	a mí me pasó que en el link de github en algunas páginas se encimaron cosas pero en el index original se ve bien
+03:03:11	Franco Biondi:	hace falta que trabajemos en una Branch por las dudas que se corrompa algo?
+03:03:49	[Profesora]Eimy Blanco:	https://github.com/EimyCB/curseros_37115
+03:03:54	ANTONELLA ESTRELLA:	puuuchaa
+03:04:09	Juan Barratines:	perfecto
+03:04:10	Belén Espindola:	se puede borrar una branch? porque me aparece en la consola pero no desde el sitio de git
+03:04:18	Bruno Realán:	ahora lo puedo ver desde mi móvil xD
+03:04:24	[Tutora] Gabriela Rodriguez:	por cierto, se vieron el after? vayan a verlo
+03:04:40	Ivo Konstantinow:	todavía no
+03:04:42	Belén Espindola:	gracias!!
+03:04:46	[Tutora] Gabriela Rodriguez:	me parece que no lo vieron 🧐
+03:04:53	ANTONELLA ESTRELLA:	no, pero lo voy a ver
+03:05:00	Bruno Realán:	estuvo bueno si
+03:05:03	[TUTOR] Matias Palladino:	Repito, es NECESARIO, que repasen las clases
+03:05:03	ANTONELLA ESTRELLA:	necesito data de las medias
+03:05:08	Iñaki Merino:	AAAAAAA
+03:05:10	Nicolas Segobia:	NOOOOOOOOOOOO
+03:05:12	Nicolas Segobia:	NOOOOOOO
+03:05:13	Nicolas Segobia:	NOOOOOOOOOOOO
+03:05:14	Nicolas Segobia:	NOOOOOOOOOOO
+03:05:16	juan villarreal:	susto tan grande
+03:05:18	[TUTOR] Matias Palladino:	porque mucho de los problemas que ha tenido en esta clase vienen de la clase pasada
+03:05:18	[Tutora] Melisa Ferreyra:	sii, revisen las grabaciones
+03:05:29	[TUTOR] Eduardo Neira:	👆🏼
+03:06:24	[Tutora] Gabriela Rodriguez:	los veo con problemas que deberian haber resuelto con el after
+03:06:47	[Tutora] Gabriela Rodriguez:	hay que dedicarle tiempo y ponerle cariño
+03:06:57	Alejandro De Souza:	y si ya tenemos animaciones y transiciones y no queremos mas? jaja
+03:07:04	Gabriel Rossetto:	eso que dice ale
+03:07:15	Iñaki Merino:	sacale las animaciones y mergealas desde la rama
+03:08:12	Melina Ramírez:	Aun no me figura la asistencia, aviso por las dudas 👋
+03:08:15	Gabriel Rossetto:	no falta el push?
+03:08:24	Cristian Robles:	a mi tampoco me figura la asistencia
+03:08:28	[TUTOR] Eduardo Neira:	si quieren agregar una rama a GitHub colocan git push origin rama-nueva
+03:08:37	juan villarreal:	melina salte y Vuelve a entrar
+03:08:46	juan villarreal:	y se acutualiza el navegador
+03:09:04	agustin lerer:	profe si yo tengo animaciones desde antes tengo que hacer una nueva rama y hacerlo todo de vuelta ?
+03:09:07	Leonardo Juventino:	no me aparece la nueva rama en GitHub como le hago ya le di git push
+03:09:34	Cristian Robles:	con solo poner una aminación ya estamos?
+03:09:36	Federico Becker:	tiene que ser una de cada una o con una sola esta bien?
+03:09:46	ANTONELLA ESTRELLA:	si ya tenemos animacion hacemos otra?
+03:09:48	Gabriel Rossetto:	la idea del desafio es hacer una rama nueva y mergear a main, no?
+03:09:59	Martin Toledo Szumowski:	F
+03:10:06	Leonardo Juventino:	no me aparece la nueva rama en GitHub como le hago ya le di git push
+03:10:06	Juan Barratines:	no me aparece la nueva rama en github
+03:10:17	Leonardo Juventino:	si
+03:10:38	ANTONELLA ESTRELLA:	si ya tenemos animacion hacemos otra?
+03:10:41	Ignacio Bruno:	eimy esto q estas diciendo de git pull lo tenemos q hacer?
+03:11:16	Valentin Caudana:	el git Branch es para crear la clase verdad ?
+03:11:23	[TUTOR] Eduardo Neira:	la rama
+03:11:29	Valentin Caudana:	la rama si
+03:11:32	Valentin Caudana:	gracias
+03:11:36	[TUTOR] Eduardo Neira:	de nada
+03:12:30	Bruno Realán:	jajajaja
+03:12:32	juan villarreal:	vamos a parecer borreguitos en una cristaleria a quebrar todo
+03:13:05	[TUTOR] Matias Palladino:	si Eimy
+03:13:09	[TUTOR] Eduardo Neira:	git clone y pegan la url
+03:13:09	[TUTOR] Matias Palladino:	es git clone
+03:14:43	Cristian Robles:	podemos hacer gitbash en proyecto-trabajo tabien no?
+03:14:57	Bruno Realán:	🤣
+03:15:27	Bruno Realán:	desarrollando las habilidades blandas
+03:16:03	Andres Platino:	ah esta buenísimo
+03:17:02	Martin Toledo Szumowski:	el init para esa carpeta no?
+03:17:08	[TUTOR] Eduardo Neira:	no Martin
+03:17:11	Yair Turco:	es necesario hacer el init de nuevo para trabajar en otro proyecto?
+03:17:12	[TUTOR] Eduardo Neira:	ya esta iniciado
+03:17:20	[Tutora] Gabriela Rodriguez:	no, el init es solo cuando empiezan un Proyecto de cero
+03:17:26	Yair Turco:	ahh perfecto
+03:17:53	[TUTOR] Eduardo Neira:	te falto entrar a la carpeta
+03:17:54	María Agustina Meixner:	Eimy, no estoy pudiendo entregar el proyecto de hoy, no lo carga la plataforma.
+03:18:01	[TUTOR] Eduardo Neira:	desde la terminal
+03:18:15	ANTONELLA ESTRELLA:	y como lo envimos al desafio?
+03:18:35	[TUTOR] Eduardo Neira:	envían la URL del repositorio
+03:18:43	ANTONELLA ESTRELLA:	ahhhh
+03:18:53	ANTONELLA ESTRELLA:	gracias Eduardo!
+03:18:54	Andres Platino:	como si fuera el drive
+03:18:59	[TUTOR] Eduardo Neira:	de nada
+03:19:17	[TUTOR] Eduardo Neira:	claro en vez de subir un archivo, solo van a pegar el link de sus repos
+03:20:05	Ignacio Bruno:	jajajaaj
+03:20:45	Cristian Robles:	el clone me sirve para pasar lo que tengo en el pendrive a una carpeta de la pc?
+03:20:51	Jorge Camacho:	pregunta si es un repositorio de otra persona tiene que dar un permiso? para que yo pueda modificar
+03:22:11	Juan Barratines:	soy el único q sigue viendo el Paint?
+03:22:12	[Tutora] Gabriela Rodriguez:	Cris, con esto no necesitas pen drive
+03:22:18	Jorge Camacho:	ok gracias
+03:22:28	Juan Barratines:	ahí si
+03:22:29	[Tutora] Gabriela Rodriguez:	es para trabajos grupales desde diferentes computadoras
+03:22:34	Cristian Robles:	pasa que yo cree con un archivo en un pendrive
+03:22:34	Jorge Camacho:	jajaa pero se entendio
+03:22:47	Juan Barratines:	ahora si
+03:22:47	Cristian Robles:	osea el main esta en un pen drive ahora
+03:23:13	[Tutora] Gabriela Rodriguez:	si llevas el pendrive a otra compu no va a funcionar, debes clonarlo como explico eimy
+03:23:26	Cristian Robles:	claro esa es la pregunta
+03:23:43	Cristian Robles:	entonces puedo usar el clone para pasarme a una carpeta de mi pc
+03:23:49	[Tutora] Gabriela Rodriguez:	y al clonarlo lo descargas en una carpeta de la nueva computadora
+03:23:56	[Tutora] Gabriela Rodriguez:	no trabajes con pendrive
+03:24:14	Iñaki Merino:	en vez de el link de drive la url de GitHub?
+03:24:16	Gabriel Rossetto:	entonces hacemos una rama, le hacemos un cambio y mergeamos a master?
+03:24:20	Juan Barratines:	perfecto
+03:24:29	Cristian Robles:	ahora?
+03:24:32	[Tutora] Melisa Ferreyra:	a partir de ahora todas las entregas son mediante el repo de github
+03:24:32	Gabriel Rossetto:	jjoya
+03:24:33	Fabricio Morosini:	cree una una rama y no me aparece aun en git
+03:24:33	[Tutora] Gabriela Rodriguez:	si iñaki
+03:24:34	Alexis Delgado:	joyaaaa
+03:24:34	Juan Barratines:	listo
+03:24:37	Alexis Delgado:	gracias
+03:24:43	Iñaki Merino:	se activa hoy el desafio no?
+03:24:47	Juan Barratines:	perfecto
+03:24:49	[TUTOR] Matias Palladino:	RT Meli: A partir de ahora TODAS las entregas son via GitHub
+03:25:00	Alexis Delgado:	nos vemos el miércoles!
+03:25:01	Juan Barratines:	adiós a los rar
+03:25:17	Ana Paula Rosaschi:	oki
+03:25:18	Daniela Poblete:	mejor!
+03:25:19	Ana Paula Rosaschi:	byeee
+03:25:21	[TUTORA] Abril Aiello:	Y si pueden enviarnos link al repo y a pages mejorrr
+03:25:23	Juan Barratines:	percfecto
+03:25:24	Valentin Caudana:	y que tenemos que compartir el GitHub?
+03:25:30	Milagros Ferro:	oki
+03:25:35	[Tutora] Gabriela Rodriguez:	bye chicos, nos vemos la proxima clase
+03:25:41	Juan Barratines:	nos vemos el miércoles!
+03:25:44	[Profesora]Eimy Blanco:	https://github.com/EimyCB/curseros_37115
+03:25:50	Martin Toledo Szumowski:	perfect
+03:25:51	[TUTORA] Sol Ianardi:	Recuerden activar github pages
+03:25:52	[Tutora] Melisa Ferreyra:	descansen
+03:25:52	Milagros Ferro:	nos vemos el miercoles!!!
+03:25:57	Luca March Ficarra:	Eimy una pregunta antes de irnos
+03:26:00	Valentin Caudana:	bueno genial
+03:26:03	Valentin Caudana:	gracias
+03:26:22	Camila Gonzalez:	nos vemos buenas noches!!
+03:26:22	Ignacio Bruno:	nos vemos, me voy despidiendo que me tengo q ir! gracias por la ayuda mati y eimy
+03:26:27	Ivan Ortiz Ramirez:	cuidense
+03:26:29	Martin Toledo Szumowski:	nos vemos el miercoles
+03:26:30	Ivan Ortiz Ramirez:	saludos a todos
+03:26:31	Sandra Quevedo:	hasta el miércoles y muhas gracas
+03:26:31	Mateo Gayo:	chau
+03:26:32	Tadeo Maddonni:	Nos vemos!
+03:26:32	Luca March Ficarra:	Ah nada nada mejor espero cuando subas el video y lo re veo que me perdi una parte no te preocupes mil gracias
+03:26:37	Ivan Ortiz Ramirez:	felicidades a las mamas del grupo
+03:26:37	Ivo Konstantinow:	Buenas noches!
+03:26:40	Yair Turco:	buenas noches12
+03:26:40	Fabricio Morosini:	hace un rato largo cree una rama, puede ser que no se vea aun'
+03:26:41	Yair Turco:	!
+03:26:42	Fernando Mendez:	gracias, buenas noches!
+03:26:42	Ivo Konstantinow:	saludosss
+03:26:42	Daniela Poblete:	byebye
+03:26:44	Renzo Yanzon:	Yo hoy subí un repositorio de prueba, quisiera subir uno nuevo para el desafio y empezar a trabajar ahí el proyecto final. Me conviene modificar el nuevo o subo uno nuevo?
+03:26:44	[TUTORA] Sol Ianardi:	Buenas noches!
+03:26:46	Alejandro De Souza:	nos vemos!
+03:26:47	[TUTOR] Matias Palladino:	Buenas noches chics!
+03:26:48	Fabricio Morosini:	ssis
+03:26:49	[TUTOR] Eduardo Neira:	buenas noches a todos!!
+03:26:50	Milagros Ferro:	byeee
+03:26:58	Fabricio Morosini:	okkaa
+03:27:31	Renzo Yanzon:	Ok gracias, puedo borrar el de hoy entonces
+03:27:45	Iñaki Merino:	Nos vemos genteeee
+03:27:46	Leonardo Juventino:	chau
