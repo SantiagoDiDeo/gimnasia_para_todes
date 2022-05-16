@@ -1,0 +1,885 @@
+01:38:21	[Tutor] Omar Manias:	Buenas noches!
+01:38:33	[Tutor] Joaquín Viretti:	Buenas noches gente!
+01:39:02	Yair Turco:	Hola a todos
+01:39:02	Juan Barratines:	"hoy quzas duden de dedicarse al desarrollo"
+01:39:06	[Tutor] Omar Manias:	se viene eliminación masiva de proyectos
+01:39:13	Juan Barratines:	ahí va
+01:39:16	Paula Rosaschi:	buenas noches
+01:39:19	Yair Turco:	se vienen las olas de branchs
+01:39:20	Martin Casillo:	nooooooooooooooooooooooooooooooooooooooooooooooooooo
+01:39:26	Gabriel Rossetto:	que era hoy? jaja
+01:39:28	Gaston Gonzalez:	Buenas noches
+01:39:28	[TUTOR] Matias Palladino:	Tambien existe una division de bandos...
+01:39:28	[Tutora] Gabriela Rodriguez:	oohhmmm
+01:39:33	Silvia Ana Bobba:	😱
+01:39:34	[Tutor] Joaquín Viretti:	El robo masivo de navbars jaja
+01:39:39	Paula Rosaschi:	bueno habrá que retirarse
+01:39:45	Martin Casillo:	ff
+01:39:57	[TUTORA] Abril Aiello:	Jajajaja les prometo que va a estar todo bien
+01:40:11	Gabriel Rossetto:	Bootstrap ♥.♥
+01:40:11	[TUTORA] Abril Aiello:	el 99.9% de los estudiantes sobreviven a esta clase
+01:40:20	[Tutor] Omar Manias:	quedan dos clases que son algo duras pero no imposibles
+01:40:20	ANTONELLA ESTRELLA:	eso espero jaja
+01:40:20	Cami Gonzalez:	🙀
+01:40:22	Iñaki Merino:	quiero creer que nos acompañas en JavaScript después eimy
+01:40:26	Ludmila Bases:	Buenas
+01:40:27	[TUTOR] Matias Palladino:	Con Bootstrap pasa algo parecido que con flex y grid, hay gente que lo ama, gente que no le gusta xD
+01:41:21	Ivo Konstantinow:	Buenas noches!
+01:41:42	Alexis Delgado:	la profe tiene la cámara apagada no?
+01:41:46	[TUTOR] Matias Palladino:	Si
+01:41:48	ANTONELLA ESTRELLA:	si
+01:42:02	juan villarreal:	no se escucha tampoco
+01:42:07	[TUTORA] Sol Ianardi:	Si Alexis porque tiene conexión inestable
+01:42:12	Paula Rosaschi:	si, se escucha
+01:42:12	[TUTOR] Matias Palladino:	Se escucha bien
+01:42:14	[TUTORA] Abril Aiello:	Juan, fíjate la configuración de tu zoom
+01:42:16	Daniel Baena:	yo escucho
+01:42:40	Paula Rosaschi:	es gratuito?
+01:42:43	Juan Barratines:	sisi
+01:42:46	Juan Barratines:	perfecto
+01:42:49	Paula Rosaschi:	oki
+01:42:52	Andrea León:	que? pudes repetir
+01:45:53	Paula Rosaschi:	sii
+01:45:55	Cami Gonzalez:	si
+01:45:55	ANTONELLA ESTRELLA:	si
+01:46:00	Juan Barratines:	bien
+01:46:03	Andres Platino:	para mantener una metologia de trabajo
+01:46:16	Nicolas Segobia:	Eimi, consulta, esto nos ayuda para que todo nuestro proyecto sea responsive?
+01:46:34	Tomas Alvarez:	Tengo una consulta. El proyecto final debe contener si o si grids?
+01:47:12	[TUTORA] Sol Ianardi:	Debería, pero es negociable
+01:47:13	[Tutor] Omar Manias:	Seguramente flex o grid vas a tener que usar Tomas
+01:47:28	ANTONELLA ESTRELLA:	en alguna de las secciones, por lo q tengo entendido
+01:47:31	[Tutor] Omar Manias:	de otra manera no vas a poder organizar el contenido pero queda a gusto
+01:47:45	Andrea León:	Osea que Bootstap es de Twitter?
+01:48:01	[TUTOR] Eduardo Neira:	son los creadores, si
+01:48:14	[TUTORA] Sol Ianardi:	Si vas a aprovechar la herramienta 100% si pero si vas a hacer una grilla de una columna, no tiene sentido
+01:48:15	Andrea León:	gracias
+01:48:37	juan villarreal:	o sea es casarse con el diablo?
+01:48:57	Martin Toledo Szumowski:	es como algo pre-hecho
+01:48:59	[TUTORA] Sol Ianardi:	Si pero no  jaja
+01:49:08	Daniel Baena:	tiene una estructura digamos?
+01:49:14	[TUTORA] Sol Ianardi:	Para eso está el mantenimiento de los sitios
+01:49:17	[TUTOR] Matias Palladino:	De hecho, algunos lugares, no usan Bootstrap para nada
+01:49:22	Paula Rosaschi:	xq no quieren trabajar con esto?
+01:49:36	Paula Rosaschi:	ahh oki
+01:49:43	Iñaki Merino:	fb
+01:49:50	Emiliano Méndez Maneiro:	que es lo mas utilizado?
+01:50:11	Paula Rosaschi:	pero por ejemplo, hbo o prime se parecen
+01:50:18	juan villarreal:	yo quiero parecerme a Elon MUSK
+01:50:20	Paula Rosaschi:	usaron Bootstrap?
+01:50:23	Martin Casillo:	batmannn
+01:50:33	Nicolas Segobia:	nuestro proyecto como esta ahora es compatible con Bootstrap?
+01:50:40	[TUTORA] Sol Ianardi:	Si Nico
+01:50:48	[TUTORA] Sol Ianardi:	Ahora vamos a ver como hacerlo
+01:50:50	[TUTORA] Sol Ianardi:	https://getbootstrap.com/
+01:51:10	[TUTOR] Matias Palladino:	No la traduzcan con el autotraductor, porque les traduce el codigo
+01:51:21	[TUTOR] Matias Palladino:	copien y peguen en el traductor de ultima
+01:51:24	Valentin Caudana:	nos recomiendan descargarlos o usarlos desde la web esta bien ?
+01:51:26	Joaquin Vannucci Garcia:	Bootstrap studio es lo mismo?
+01:51:26	Santino Teixeira:	si, igual loa códigos y todo es inglés
+01:51:27	[Tutor] Joaquín Viretti:	Cuidado que si buscan Bootstrap en Google, a veces entran a la versión 4. Corroboren estar en la última que ya es estable
+01:51:51	Andrea León:	como corroboramos eso?
+01:51:59	[Tutor] Joaquín Viretti:	Arriba a la derecha dice la versión
+01:52:08	Andrea León:	listo perfecto
+01:52:21	[TUTOR] Matias Palladino:	En la pantalla inicial de la pagina, debajo de Get Started dice la version
+01:52:52	[TUTOR] Matias Palladino:	SUGERENCIA: es MAS que recomendable usar una rama para aplicar Bootstrap, porque van a hacer MUCHOS cambios en sus codigos
+01:53:47	[TUTORA] Sol Ianardi:	TIENEN QUE PEGARLO ANTES DEL CSS
+01:53:53	[TUTORA] Sol Ianardi:	ES MUY IMPORTANTE ESO
+01:54:09	Cristian Robles:	por la lectura en cascada?
+01:54:14	ANTONELLA ESTRELLA:	podes repetir?
+01:54:14	Jorge Luis López:	so
+01:54:16	Ignacio Bruno:	perame
+01:54:16	Juan Barratines:	sisi
+01:54:18	Gaston Gonzalez:	Puede repetir
+01:54:18	Jorge Luis López:	sí*
+01:54:22	Gaston Gonzalez:	el proceso
+01:54:49	Fabricio Morosini:	refresque como era para crear un branch
+01:55:00	Yohan Castorena:	buenas tardes
+01:55:06	{TUTORA} Verónica Guiñan:	buenas noches!! sorry la tardanza
+01:55:24	Santino Teixeira:	lo mejor es agregarlo a todas? o pasa algo si lo ponés en una que no usas?
+01:56:02	Santino Teixeira:	okey
+01:56:06	Iñaki Merino:	y solo se puede usar en proyectos que se usen con internet?
+01:56:16	[TUTORA] Sol Ianardi:	Lo recomendable es pegarlo en todos tus HTML, ya que seguro vas a utilizarlo en el nav o en footer y si no lo pegas vas a tener diferencias
+01:56:18	Iñaki Merino:	osea si lo utilizamos para algo sin conexión no serviria
+01:56:24	Fabricio Morosini:	puede refrescar como crear un branch
+01:56:26	Juan Barratines:	hace falta comentar lo de bootsrap y css?
+01:56:30	Juan Barratines:	o lo pusiste a modo de mostrar?
+01:56:34	Juan Barratines:	perfecto
+01:56:51	[TUTOR] Matias Palladino:	Fabricio, git branch nombre-de-rama Te recomiendo repasar las clases pasadas.
+01:57:51	Fernando Mendez:	puede repetir de donde viene el script
+01:57:57	Ignacio Bruno:	pero yo tengo las animaciones ahí tmbn no pasa nada?
+01:58:00	Camila Gonzalez:	si queda claro
+01:58:03	Ignacio Bruno:	los scripts
+01:58:09	[TUTORA] Sol Ianardi:	No pasa nada Igna
+01:58:11	[TUTORA] Abril Aiello:	Adentro de body, importante eso
+01:58:47	Cristian Robles:	no veo el bundle
+01:59:00	[TUTOR] Matias Palladino:	https://getbootstrap.com/docs/5.1/getting-started/introduction/#bundle
+01:59:01	Ignacio Bruno:	esta bien si hago esto adentro d una rama solo para bootstra?
+01:59:03	[Profesora]Eimy Blanco:	https://getbootstrap.com/docs/5.1/getting-started/introduction/#bundle
+01:59:08	[TUTORA] Abril Aiello:	Si igna, hace eso
+01:59:10	[TUTOR] Matias Palladino:	Si Ignacio, recomendamos hacerlo en una rama
+01:59:18	Ignacio Bruno:	perfecto
+01:59:20	Bruno Realán:	esta mal usar Bootstrap 4 hoy por hoy?
+01:59:21	[TUTORA] Sol Ianardi:	El script es importante ya que varios complementos usan JavaScript, y si no está el link no les va a funcionar, como por ejemplo el carrusel
+01:59:38	[Tutora] Mariana Servan:	si bruno
+01:59:39	Fernando Mendez:	se le aplica solo a las paginas en que lo voy a usar? o en todas?
+01:59:56	[TUTOR] Eduardo Neira:	en todas chicos
+01:59:59	[TUTOR] Matias Palladino:	Seria raro que si usas bootstrap en una, no lo uses en todas
+01:59:59	Nicolas Segobia:	me mostras la consola de git?
+02:00:01	[TUTOR] Eduardo Neira:	asi mantienen una consistencia
+02:00:10	Fernando Mendez:	ahh ok
+02:00:19	Bruno Realán:	si
+02:00:23	Juan Barratines:	sisi
+02:00:24	Juan Cassani:	donde ponemos la referencia de bundle
+02:00:28	Juan Cassani:	abajo del body?
+02:00:39	[Tutora] Mariana Servan:	dentro del body, al final
+02:00:42	[Tutora] Gabriela Rodriguez:	siempre antes del cierre del body
+02:00:46	[TUTORA] Abril Aiello:	Después de footer, antes de cerrar body
+02:00:48	[Tutora] Gabriela Rodriguez:	justo antes
+02:00:51	Willemien Mendoza:	en la css no se modifica nada verdad?
+02:00:59	Willemien Mendoza:	thanks
+02:01:02	[Tutora] Gabriela Rodriguez:	por ahora no
+02:01:17	[Tutora] Gabriela Rodriguez:	la documentacion de bootstrap hay que leerla
+02:01:19	Franco Biondi:	si no hicimos otra rama hacemos devuelta todo en una rama?
+02:01:22	[Tutora] Gabriela Rodriguez:	son un recetario
+02:01:26	Franco Biondi:	o empezamos ahora con la nueva rama?
+02:01:28	[TUTOR] Matias Palladino:	La docuementacion es fundamental, si no leen la documentación no van a poder aplicarlo
+02:01:34	[TUTORA] Abril Aiello:	Es muy importante empezar a familiarizarse con términos del universo desarrollo, en ingles
+02:01:48	[Tutora] Gabriela Rodriguez:	esto es cuestion de ser curioso
+02:01:54	[Tutora] Gabriela Rodriguez:	Deben ser curiosos
+02:02:00	[TUTORA] Abril Aiello:	Busquen la traducción si quieren pero leyendo y leyendo en ingles van a poder procesar las palabras en ese idioma
+02:02:03	Iñaki Merino:	hay especialistas en Bootstrap'
+02:02:06	Iñaki Merino:	?
+02:02:15	[TUTOR] Matias Palladino:	De hecho, las documentaciones es algo CRUCIAL en el mundo del desarrollo. Muchas librerías y frameworks las tienen y es necesario leerlas para aprender a usarlo
+02:02:17	[TUTORA] Sol Ianardi:	La página lo explica TODO, todo está ahí
+02:02:54	Cristian Robles:	lindo para un reset
+02:02:56	Andrea León:	profe si no hice lo de git bash antes de añadir el bootstrap no pasa nada?
+02:02:57	Emiliano Méndez Maneiro:	listo
+02:02:59	Ignacio Bruno:	yes
+02:03:01	Bruno Realán:	go
+02:03:03	[TUTOR] Eduardo Neira:	con boostrapse hacen cosas geniales, es solo cuestión de practica y leer la documentación siempre
+02:03:04	ANTONELLA ESTRELLA:	podes repetir q pusiste en la terminal?
+02:03:08	[TUTORA] Sol Ianardi:	Haacelo ahora Andre
+02:03:17	Emiliano Méndez Maneiro:	git branch XXXX
+02:03:22	[TUTORA] Sol Ianardi:	Anto creo una nueva rama y se posiciono en ella
+02:03:23	Emiliano Méndez Maneiro:	git checkout XXXX
+02:03:30	Andrea León:	Vale
+02:03:39	Martin Casillo:	te odio con mi alma grid
+02:03:50	Emiliano Méndez Maneiro:	grid es mi major amigo
+02:03:58	[TUTORA] Sol Ianardi:	Pero el grid de Bootstrap es más sencillo
+02:04:31	Fabricio Morosini:	que mas se pega dentro del código?
+02:04:35	Edgar Hernandez:	es normal que me aparezca m de modified, en visual code?
+02:04:45	Andrea León:	si
+02:04:47	[TUTOR] Matias Palladino:	si modificaste algo dentro de tu repositorio, si
+02:04:54	Emiliano Méndez Maneiro:	tenes cambios sin guardar
+02:05:06	ANTONELLA ESTRELLA:	A mi tmb me sale una M
+02:05:12	Edgar Hernandez:	ya seria al final de hacer git add verdad?
+02:05:21	ANTONELLA ESTRELLA:	sera por q no cree la rama aun en la terminal?
+02:05:21	[TUTOR] Eduardo Neira:	si
+02:05:22	[Tutora] Gabriela Rodriguez:	si
+02:05:26	Edgar Hernandez:	ok gracias
+02:05:28	Cristian Robles:	shift
+02:05:33	[TUTOR] Eduardo Neira:	la M es de que modificaron el documento
+02:05:44	ANTONELLA ESTRELLA:	ah ok
+02:05:50	ANTONELLA ESTRELLA:	gracias eduardo
+02:06:05	Juan Barratines:	no vemos el codigo
+02:06:05	Cristian Robles:	no se ve
+02:06:06	Yair Turco:	no se ve eimy
+02:06:06	Matias Diaz:	No se ve Eimy
+02:06:06	Mateo Gayo:	no se ve
+02:06:07	Carlos Joaquin Rodriguez:	no se ve
+02:06:08	Juan Barratines:	se ve paint
+02:06:08	Matias Diaz:	esta en paint
+02:06:09	Emiliano Méndez Maneiro:	veo el paint
+02:06:09	Iñaki Merino:	se clavo
+02:06:09	[TUTOR] Eduardo Neira:	la U es de untracked  o sin seguimiento, es cuando crear un archivo nuevo y aun no lo han pasado por la stage area
+02:06:13	juan francisco ojstersek:	No de ve
+02:06:54	Franco Biondi:	si
+02:06:55	Cristian Robles:	si
+02:06:55	Andrea León:	si
+02:06:55	ANTONELLA ESTRELLA:	si
+02:06:55	Andres Platino:	sisis
+02:06:56	Camila Gonzalez:	si
+02:06:56	Bruno Realán:	si
+02:06:56	Edgar Hernandez:	sii
+02:06:57	Iñaki Merino:	sis
+02:06:57	Emiliano Méndez Maneiro:	si\
+02:06:58	Matias Diaz:	si si
+02:06:58	Jorge Luis López:	sí
+02:07:01	Martin Toledo Szumowski:	yes
+02:07:01	Matias diaz:	sis
+02:07:01	Jorge Camacho:	si
+02:07:01	Sandra Quevedo:	ok
+02:07:04	Ignacio Bruno:	básicamente si o si vamos a tener q cambiar todo el codeo, no?
+02:07:12	[TUTORA] Sol Ianardi:	Básicamente, si
+02:07:15	[TUTOR] Matias Palladino:	Una, y mil veces
+02:07:18	Ignacio Bruno:	D;
+02:07:20	[TUTOR] Matias Palladino:	es normal en el proceso de desarrollo
+02:07:22	[TUTORA] Sol Ianardi:	Pero están aprendiendo
+02:07:37	Andrea León:	si
+02:07:39	ANTONELLA ESTRELLA:	si
+02:07:41	Cristian Robles:	si
+02:08:45	juan villarreal:	ahora vamos a ser de mucha clase
+02:09:11	[TUTORA] Sol Ianardi:	Estas clases no hace falta declararlas en css, ya tienen propiedades a través de bootstrap
+02:09:23	Juan Barratines:	podría ser un div en lugar del article? o un section?
+02:09:36	[TUTORA] Abril Aiello:	Si juan, lo importante son las clases
+02:09:37	Juan Barratines:	o tiene q ser si o si article?
+02:09:41	Juan Barratines:	joya
+02:09:47	[Tutor] Joaquín Viretti:	Si obvio, el elemento es indistinto. Solo respeten la semántico
+02:09:54	[TUTORA] Abril Aiello:	Las etiquetas HTML y su semántica las acomodan acorde a su código
+02:09:59	Camila Gonzalez:	ahora voy a poder resolver un monton de cosas....
+02:10:04	[TUTORA] Sol Ianardi:	containerrowcol
+02:10:19	Cristian Robles:	la 4?
+02:10:29	Juan Barratines:	magia
+02:10:31	Andrea León:	cfreo que la hice mal se me ve distinta
+02:10:34	Alexis Delgado:	ahhh
+02:10:36	Franco Biondi:	mucho mas fácil que grid
+02:10:39	[TUTORA] Abril Aiello:	Pasa captura andre
+02:10:39	Cristian Robles:	seria columna 1
+02:10:39	Alexis Delgado:	ya entendí
+02:10:43	Cristian Robles:	o no?
+02:10:52	[TUTOR] Eduardo Neira:	grabense eso
+02:11:07	[TUTOR] Eduardo Neira:	Bootstrap trabaja en base a 12 columnas
+02:11:17	[TUTOR] Eduardo Neira:	esto clave para armar los layouts
+02:11:17	Leandro Ezequiel Raymondi Rossa:	buenas, recién tengo internet :(
+02:11:30	Alexis Delgado:	le podes aplicar flex a eso?
+02:11:31	Cristian Robles:	si
+02:11:33	Ignacio Bruno:	si
+02:11:33	Edgar Hernandez:	si
+02:11:34	Andrea León:	si
+02:11:36	Iñaki Merino:	si
+02:11:41	Camila Gonzalez:	si
+02:11:51	Cristian Robles:	:O
+02:11:58	Martin Toledo Szumowski:	armas el template área sin configurar el css
+02:12:01	[TUTOR] Eduardo Neira:	lean la docu
+02:12:09	Andres Platino:	osea que lo que ponga ahi adentro me aplica las propiedades de flex automaticamente
+02:12:11	[TUTORA] Sol Ianardi:	Si el contenido es más grande y tenés elementos dentro podés aplicarle a ellos flex
+02:12:12	Martin Casillo:	y si quiero movermo o acomodarlo solo modifico los margins y esas cosas? o no tendría que usar Bootstrap?
+02:12:16	ANTONELLA ESTRELLA:	sin las media querys?
+02:12:17	Camila Gonzalez:	pero si aplicar las propiedades de flex?
+02:12:20	Daniel Baena:	osea que ya queda responsive?
+02:12:22	[TUTOR] Eduardo Neira:	exacto
+02:12:24	[TUTORA] Abril Aiello:	Claro no es que Bootstrap implementa propiedades y valores desconocidos y magicos para nosotros sino que usa lo mismo que venimos viendo
+02:12:25	[TUTOR] Matias Palladino:	irónicamente, esta grid esta hecha con flex
+02:12:25	Cristian Robles:	:O:O
+02:12:26	ANTONELLA ESTRELLA:	apa
+02:12:31	Yair Turco:	que hermoso
+02:12:33	[TUTOR] Eduardo Neira:	serian los breakpoints
+02:12:34	[TUTORA] Sol Ianardi:	Ahora seguimos viendo un poco más para que entiendan
+02:12:36	Luis Ezequiel Bordon:	que lindoo
+02:12:49	Juan Barratines:	y para cambiar la cantidad de columnas?
+02:12:50	Juan Barratines:	también, no?
+02:13:13	Juan Barratines:	a eso iba
+02:13:57	[TUTORA] Sol Ianardi:	Ahora lo vemos Juan
+02:14:04	[TUTORA] Sol Ianardi:	Presten atención a esto
+02:16:43	Alexis Delgado:	se
+02:16:44	Andres Platino:	yo no entendi
+02:16:44	Juan Barratines:	sisi
+02:16:45	Jorge Luis López:	sí!
+02:16:45	Edgar Hernandez:	si
+02:16:48	Iñaki Merino:	muy bueno es
+02:16:48	Martin Toledo Szumowski:	mas o menos
+02:16:50	Alejandro De Souza:	sisi
+02:16:55	Facundo Parra:	3x4 12
+02:17:52	Juan Barratines:	ame esto
+02:17:55	[TUTORA] Sol Ianardi:	wait por it
+02:18:00	[TUTORA] Sol Ianardi:	for*
+02:18:08	Iñaki Merino:	es como un css desde html
+02:19:00	Camila Gonzalez:	hermoso te ahorras un monton de código}
+02:19:02	Alejandro De Souza:	sisi
+02:19:06	Juan Barratines:	si
+02:19:13	Iñaki Merino:	y pq la 7 no se mueve igual que la 8?
+02:19:20	Iñaki Merino:	porq son la misma row
+02:19:21	Iñaki Merino:	nada nada
+02:19:28	Cristian Robles:	que onda el 8
+02:19:35	[TUTORA] Sol Ianardi:	No le aplicamos nada
+02:19:35	Juan Barratines:	nbo toco ni el 7 ni el 8
+02:19:50	juan villarreal:	ni sufren ni se acongojan esos
+02:19:54	Martin Casillo:	y para centrar lo de adentro y esas cosas que antes lo hacíamos con justify y align ahora como seria?
+02:20:11	Cristian Robles:	genial
+02:20:15	Andres Platino:	sisis
+02:20:16	Juan Barratines:	sisi
+02:20:18	Iñaki Merino:	como el agua
+02:20:18	Alejandro De Souza:	clarisimo
+02:20:18	Edgar Hernandez:	sii
+02:20:19	Matias Diaz:	si si, faltaría practica!
+02:20:19	Sebastián Dalprá:	si si
+02:20:21	Leonardo Juventino:	algo
+02:20:22	Julio César Durán Medina:	Sí
+02:20:22	Francisco Pardo:	si
+02:20:23	Camila Gonzalez:	si
+02:20:23	Gabriel Rossetto:	podría usar col-sm-12 ?
+02:20:25	Daniel Baena:	algo jajaj
+02:20:27	Valentin Caudana:	sisi muy claro
+02:20:29	Martin Toledo Szumowski:	armar el grid si
+02:20:39	Paula Rosaschi:	no entendi
+02:20:41	Andrea León:	y eso lo podemos hacer con cualquier parte de la pagina
+02:20:43	Daniel Baena:	porque había puesto 3 clases?
+02:20:46	Paula Rosaschi:	lo que era mas importante
+02:21:16	[TUTOR] Eduardo Neira:	las 3 clases son para indicar que posición va a ocupar según el ancho de la pantalla
+02:21:18	Juan Barratines:	todo esto se puede aplicar a un li, no?
+02:21:31	Daniel Baena:	pero porque usaste el xl? no seria la medida de compu ya?
+02:21:35	Jorge Camacho:	y para que hacerlo tipo Pinterest ?
+02:22:00	Daniel Baena:	que seria celu y tablet
+02:22:08	Daniel Baena:	genial perfecto
+02:22:22	Iñaki Merino:	y solucionas el problema de los celulares plegables
+02:22:25	Iñaki Merino:	o casi
+02:22:26	Bruno Realán:	el xs no es Movile?
+02:22:51	Jorge Camacho:	okey
+02:23:08	Andres Platino:	es como muy estructurado
+02:23:11	Cristian Robles:	=(
+02:23:15	Julián Campagnaro:	entonces no es necesario aplicarlo en todas las páginas? o sí?
+02:23:24	Andrea León:	me puedes repetir los numeros? como saber cual poner col-xl-2
+02:23:35	Daniel Baena:	osea que usaríamos Bootstrap si querríamos hacer una pagina grid
+02:23:37	Martin Toledo Szumowski:	pero una pagina tiene que ser puro Bootstrap o miti y miti para darle personalización?
+02:23:45	Gabriel Rossetto:	una vez habían dicho que teníamos que usar grid al final, que pasará?
+02:23:45	[TUTORA] Sol Ianardi:	Andre eso depende de como quieras organizar tu contenido
+02:23:55	Juan Barratines:	iba a preguntar lo mismo q martin
+02:24:02	Gabriel Rossetto:	es 100% obligatorio usar grid? si ya tenemos con bootstrap
+02:24:03	Andrea León:	Gracias
+02:24:05	Juan Barratines:	se puede sobreescribir l ode Bootstrap con nuestro css?
+02:24:07	[TUTORA] Sol Ianardi:	No Dani, ya vamos a ver más compopnentes
+02:24:08	Martin Casillo:	Si tengo un HTML "galería" , en ese puedo no usar boostrap? o si uso en uno uso en todos
+02:24:16	[TUTORA] Abril Aiello:	La idea es que metan sus propios estilos martin. Asi no les queda todo tan prefabricado
+02:24:34	[TUTORA] Sol Ianardi:	Si Juan, lo DEBEN sobreescribir
+02:24:37	[Tutor] Joaquín Viretti:	Si hacen puro BS va a haber varios puntos de las rúbricas q no van a poder cubrir, puede convivir con su css propio
+02:24:42	Juan Barratines:	por eso, lo q nosotros pongamos en nuestro css pisa al bootstrap
+02:24:44	Juan Barratines:	es asi?
+02:24:47	Cristian Robles:	la 3 es mas grande que la 7
+02:24:48	Juan Barratines:	por eso va arriba en el HTML?
+02:24:48	Martin Toledo Szumowski:	solo llamamos al css de Bootstrap para lo que necesitamos
+02:24:56	[TUTORA] Sol Ianardi:	Claro Juan
+02:25:04	[TUTORA] Abril Aiello:	Ahora vamos a ver algunas trampillas de Bootstrap para pisar estilos. Banquen un toque
+02:25:25	Gabriel Rossetto:	donde veo las rubricas, nunca lo encontré
+02:25:26	[TUTORA] Sol Ianardi:	Chicos ya vamos a ver más componentes de Bootstrap, seguro van a usarlo en el nav, y el nav está en todos sus html
+02:25:30	Martin Casillo:	siemetria on point
+02:25:35	Luz María Cerda A:	Es sm 6
+02:25:47	[TUTORA] Abril Aiello:	Las rubricas están en el drive del curso. Ahí te paso link gabi
+02:26:09	[TUTORA] Abril Aiello:	https://drive.google.com/drive/folders/1OcOPVnQ5k2dRLGOosGVpDLbLb3_23-Uk
+02:26:15	Gabriel Rossetto:	gracias :D
+02:26:31	Ignacio Bruno:	sm seria para móvil, no?
+02:27:14	Gabriel Rossetto:	@abril se repiten algunas o soy yo?
+02:27:33	[TUTORA] Abril Aiello:	Jajajaj se repitenn
+02:27:38	Luz María Cerda A:	md 4
+02:27:44	Gabriel Rossetto:	millonada de rubricas decía jaj
+02:27:58	Gabriel Rossetto:	me imagino que [ CX ] donde x es la clase
+02:28:35	[Tutor] Joaquín Viretti:	En las rúbricas, una práctica en la columna de "bajo" es no tener identidad propia y solo mantener el framework. Así que no se ceben jaja
+02:28:48	Juan Barratines:	17%
+02:29:04	Juan Barratines:	sisi
+02:29:14	Andres Platino:	si re
+02:29:14	Andrea León:	si
+02:29:14	ANTONELLA ESTRELLA:	si, es complicado , pero asi lo entiendo mejor
+02:29:16	Fernando Mendez:	si  si
+02:29:16	Leonardo Juventino:	si
+02:29:24	Matias diaz:	si
+02:29:45	ANTONELLA ESTRELLA:	las imagenes tamb?
+02:30:27	[TUTOR] Matias Palladino:	Si bien Bootstrap es muy bueno para la distrubcion de elementos, no hace magia del todo, algunas cosas van a tener que ajustarlas con media queries
+02:30:43	ANTONELLA ESTRELLA:	ok
+02:30:47	[TUTOR] Matias Palladino:	particularmente, el tamaño de las imágenes. Pero también hay algunas propiedades de Bootstrap que pueden ayudar
+02:31:00	[TUTOR] Matias Palladino:	Ahi, esa misma
+02:31:30	Alexis Delgado:	amo boostrap para acomodar las imagenes
+02:31:31	Daniel Baena:	esa etiqueta funciona solo con Bootstrap?
+02:31:55	juan villarreal:	va a maullar si lo aplastan
+02:32:47	Santiago Diaz Monvale:	A un class container como le agrego mas css o no se puede?
+02:32:55	[TUTOR] Matias Palladino:	Con otra clase
+02:32:57	[TUTOR] Matias Palladino:	una tuya
+02:33:04	Juan Barratines:	el gap se puede modificar ahí?
+02:33:12	Santiago Diaz Monvale:	le pongo Class="" class=""?
+02:33:28	Juan Barratines:	o lo separamos con margin?
+02:33:30	[TUTOR] Matias Palladino:	No, las clases se separan con espacios (repasar primeras clases!)
+02:33:30	[TUTORA] Abril Aiello:	No santi, dentro de class "" podes escribir varias palabras
+02:33:30	Juan Barratines:	okk
+02:33:37	Martin Casillo:	Si uso imágenes de fondo, aplica también?
+02:33:38	[TUTORA] Abril Aiello:	En tanto separes con espacios, son clases disintas
+02:33:42	Santiago Diaz Monvale:	dentro de la misma entonces
+02:33:44	Santiago Diaz Monvale:	muchas gracias
+02:33:44	Facundo Parra:	class="class 1 class2"
+02:34:00	[TUTORA] Abril Aiello:	Muy importante, no usen las clases de Bootstrap para seleccionarlas en su css y agregar estilos. Creen clases nuevas
+02:34:08	[TUTORA] Abril Aiello:	Exacto facu
+02:34:10	Cristian Robles:	si
+02:34:21	Andres Platino:	claro pero lo declaro en la clase en vez del css
+02:35:02	ANTONELLA ESTRELLA:	ahhh
+02:35:05	Cristian Robles:	:O
+02:35:09	Iñaki Merino:	conviene usar esas class o es mejor hacer una class aparte y adaptar los ítems con flex??
+02:35:14	Juan Barratines:	perfecto
+02:35:15	Jorge Luis López:	puedes repetir por favor?
+02:35:22	Ignacio Bruno:	repetís eso pls
+02:35:22	Leonardo Juventino:	salud
+02:35:26	Alexis Delgado:	mucho mas fácil esto que grids y flex
+02:35:31	[TUTOR] Matias Palladino:	Gusto de consumidor Iñaki
+02:35:39	juan villarreal:	hay que tomar loratadine para las alergias
+02:35:45	Iñaki Merino:	Perfecto, gracias Matias
+02:35:54	[Profesora]Eimy Blanco:	https://bootstrap-cheatsheet.themeselection.com/
+02:35:59	[TUTOR] Matias Palladino:	pero, tener en cuenta que al declarle clases de esta forma, restringis cada vez mas tus posibilidades de personalizarlo
+02:37:03	Iñaki Merino:	y toda la lógica de bs funciona mediante este grid de 12 columnas?
+02:37:32	Andres Platino:	puedo agregar texto , imagen y un botón dentro de una misma columna?
+02:37:34	Yair Turco:	puedo crear una nueva clase y declarar las propiedades de flex desde esa nueva clase en mi css? en caso que quiera laburar algo particular en una columna por ejemplo
+02:37:36	Iñaki Merino:	ok
+02:37:37	Franco Biondi:	no se puede hacer 2 containers en uan misma pagina verdad?
+02:37:50	[TUTOR] Matias Palladino:	Si Yair
+02:38:16	Yair Turco:	ah perfecto.. me estaba asustando, jaja
+02:38:30	Andres Platino:	sisis
+02:38:30	Martin Toledo Szumowski:	bien
+02:38:30	Franco Biondi:	si
+02:38:32	Cristian Robles:	si
+02:38:33	Martin Toledo Szumowski:	bien aclarado eso
+02:38:50	Joaquin Vannucci Garcia:	lo que viene con flex son solo las rows o los dos?
+02:39:13	Andrea León:	Eso lo puedo hacer en el proyecto y tengo que eliminar el css que le hice anteriormente?
+02:39:22	[TUTOR] Matias Palladino:	No Andrea, no elimines tu CSS
+02:39:28	[TUTOR] Matias Palladino:	porque tenes que personalizar tu sitio
+02:39:36	[TUTOR] Matias Palladino:	Tenes que seguir dándole estilos con tu CSS
+02:39:41	Leonardo Juventino:	ok
+02:39:45	Andrea León:	No todo el css sino de esa parte?
+02:39:48	Emiliano Méndez Maneiro:	ok
+02:39:48	Iñaki Merino:	oka
+02:39:52	Juan Barratines:	genial
+02:39:52	Alejandro De Souza:	ok
+02:39:54	ANTONELLA ESTRELLA:	si, fue un monton
+02:40:03	juan villarreal:	leo dannnnnnn
+02:40:04	[Tutor] Joaquín Viretti:	esaa
+02:40:05	ANTONELLA ESTRELLA:	q grandeeeee
+02:40:06	Iñaki Merino:	me gusto
+02:40:07	Yair Turco:	si, mas que borrar el css completo es bajar las prop de flex y grid… rearmar eso
+02:40:09	[TUTOR] Matias Palladino:	Claro, si tenes CSS redundante, se puede quitar
+02:40:10	[Tutor] Omar Manias:	claro, mas alla de lo que vemos en Bootstrap hay que personalizarlo
+02:40:32	Franco Biondi:	una pregunta, en el trabajo que se entrega el lunes, que url tengo que subir como entrega? porque nose de donde sacar el link
+02:40:35	Cristian Robles:	algún tutor que me de una mano con la función clone en este break?
+02:40:44	[Tutor] Joaquín Viretti:	Es la que te da el botón verde
+02:40:48	[Tutor] Joaquín Viretti:	y dice https
+02:40:57	Andrea León:	no]
+02:40:58	Iñaki Merino:	no se escucha
+02:40:59	Leonardo Juventino:	no se oye
+02:41:00	[Tutor] Joaquín Viretti:	O también la URL de google directamente
+02:41:01	juan villarreal:	no
+02:41:03	Paula Rosaschi:	no
+02:41:05	Andres Castro Auteri:	no se escycha
+02:41:11	Iñaki Merino:	si
+02:41:12	Andrea León:	si
+02:41:12	Andres Castro Auteri:	ahora sii
+02:41:13	Juan Barratines:	ahi si
+02:41:14	juan villarreal:	ya
+02:41:14	Paula Rosaschi:	harrryyyyyyyy
+02:41:16	Martin Toledo Szumowski:	de 10
+02:41:18	Iñaki Merino:	10 puntos
+02:41:34	juan villarreal:	que es eso
+02:41:36	Yair Turco:	pasa el link Eimy!
+02:41:36	[Tutor] Joaquín Viretti:	La Url de un repo tiene el formato: GitHub.com/{usuario}/{nombre repo}
+02:41:52	juan villarreal:	yo me quede en Leo dan y Palito Ortega Ppiero Jose Lleonardo Fabio
+02:41:52	Cristian Robles:	si ya tengo el mio
+02:42:07	Tomas Alvarez:	ah bueno que nivel tienen los breaks ahora!!
+02:43:06	Jorge Luis López:	bootstrap + música en break = clase favorita hasta el momento
+02:44:09	Juan Barratines:	Taylor eterno 🤘🏻
+02:44:14	[Tutor] Joaquín Viretti:	https://open.spotify.com/playlist/2MM5CpH8VCgFlwqk3Dgfgx
+02:45:27	Cristian Robles:	cuando quiero crear la rama para probar bootstrap me sale este msj en git
+02:45:30	Cristian Robles:	fatal: not a valid object name: 'master'
+02:45:42	[Tutor] Joaquín Viretti:	que comando pusiste?
+02:45:55	Cristian Robles:	git branch "aplicando-bootstrap"
+02:46:17	[Profesora]Eimy Blanco:	sin comillas
+02:46:29	Cristian Robles:	fatal: not a git repository (or any of the parent directories): .git
+02:46:38	Cristian Robles:	sin comillas
+02:46:38	[Tutor] Joaquín Viretti:	hiciste el git init?
+02:46:42	Cristian Robles:	si
+02:46:54	[Tutor] Joaquín Viretti:	Probá haciendo un commit en master
+02:46:58	[Tutor] Joaquín Viretti:	y luego creando la rama
+02:48:34	Alexis Delgado:	amo que este Harry en la playlist, mi pagina es sobre el
+02:48:45	[Tutor] Joaquín Viretti:	amamos
+02:48:52	Jorge Luis López:	haha harry y luego metallica
+02:48:58	[Tutor] Joaquín Viretti:	Se solucionó Cris?
+02:49:03	[TUTORA] Abril Aiello:	Ese proyecto está aprobado alexis
+02:49:11	Cristian Robles:	hint: You've added another git repository inside your current repository.hint: Clones of the outer repository will not contain the contents ofhint: the embedded repository and will not know how to obtain it.hint: If you meant to add a submodule, use:hint:hint:   git submodule add <url> la_casa_del_futbolhint:hint: If you added this path by mistake, you can remove it from thehint: index with:hint:hint:   git rm --cached la_casa_del_futbolhint:hint: See "git help submodule" for more information.
+02:49:15	Martin Toledo Szumowski:	nooo la de metallica
+02:49:17	Matias Diaz:	si is, estamos!
+02:49:21	[Tutora] Gabriela Rodriguez:	SI la pagina de ALexis esta hermosa
+02:49:27	[Tutora] Gabriela Rodriguez:	la de harry styles
+02:49:28	Alexis Delgado:	vamoooo
+02:49:35	[Tutora] Gabriela Rodriguez:	vas bien
+02:49:42	[Tutor] Joaquín Viretti:	Tenés que buscar la carpeta oculta .git que se creo extra y borrarla
+02:49:52	[Tutor] Joaquín Viretti:	Solo debería haber una en la raíz del proyecto
+02:49:57	Juan Barratines:	todo mal
+02:50:00	Juan Barratines:	jaajajaja
+02:50:08	Leonardo Juventino:	jajajaj está chayanne
+02:50:15	Yair Turco:	Torero arriba de Lil Nas
+02:50:16	Matias Diaz:	una lastima 😞 sacar metallica
+02:50:18	Yair Turco:	lo mejor
+02:50:19	Yair Turco:	jajajaja
+02:50:35	[Tutora] Gabriela Rodriguez:	Cristian, ahi te dice pista: has agregado otro repositorio adentro de tu respositorio
+02:50:40	[Tutora] Gabriela Rodriguez:	hiciste quilombo
+02:50:53	ANTONELLA ESTRELLA:	al fiiiiinnn
+02:50:59	ANTONELLA ESTRELLA:	graciaaaasss!!
+02:51:03	Juan Barratines:	uoooooooo
+02:51:17	Juan Barratines:	🥳
+02:51:25	Nicolas Segobia:	Eimy fan de los conejos y los gatitos?
+02:51:26	Camila Gonzalez:	🎉
+02:51:44	Cristian Robles:	gracias joaquin ahi pude =D
+02:51:49	Ignacio Bruno:	wesaaa
+02:52:11	[TUTOR] Matias Palladino:	IMPORTANTE: Los carruseles, asi como la mayoría de los componentes, tienen id's en sus códigos. Si ponen mas de un carrusel por pagina (raro, pero puede ser), DEBEN modificar el id y los lugares donde apliquen o no les va a funcionar bien.
+02:52:51	Bruno Realán:	tengo un carousel hecho con Bootstrap 4 T_T
+02:53:16	[TUTOR] Eduardo Neira:	por eso no es menos importante leer siempre la documentación para que sepan como funcionan los componentes
+02:53:40	[Tutor] Joaquín Viretti:	Cuidado que los componentes no son todos retrocompatibles
+02:53:55	Julián Campagnaro:	ese carrusel también va a se responsive de por sí solo?
+02:55:41	ANTONELLA ESTRELLA:	si, por el contenedor q le declaramos
+02:55:42	Ignacio Bruno:	:O
+02:55:53	Iñaki Merino:	tremendo
+02:55:59	Andrea León:	eso te iba a decir
+02:56:06	[TUTOR] Matias Palladino:	imágenes del mismo tamaño y que no ocupen toda la pantalla de esa forma
+02:56:09	juan villarreal:	Maravilloso Wonderful
+02:56:10	Ignacio Bruno:	epectacula
+02:57:21	Andrea León:	a la section?
+02:57:25	Leonardo Juventino:	el index no lo guardó
+02:57:26	[Tutora] Gabriela Rodriguez:	es por separado
+02:57:27	[Tutora] Gabriela Rodriguez:	si
+02:58:02	ANTONELLA ESTRELLA:	ok
+02:58:03	Andres Platino:	se le puede agregar un url ?
+02:58:05	juan villarreal:	que Bueno que paso esto de que en el padre no jalo
+02:58:07	juan villarreal:	para saber
+02:58:14	Leonardo Juventino:	y para reducir el tiempo en el que pasan las imagenes
+02:58:15	Julián Campagnaro:	a que te referis con directamente a la img? Hacerlo por fuera de todo visual?
+02:58:40	ANTONELLA ESTRELLA:	que adaptes la img antes en alguna app
+02:58:45	Julián Campagnaro:	okey, full canva jaja
+02:59:11	ANTONELLA ESTRELLA:	sii
+02:59:11	Jorge Luis López:	pero aunque editemos la imagen, cuando cambie la resolución igual se deformará no?
+02:59:19	[Tutor] Omar Manias:	es compartir auSi Jorge
+02:59:23	ANTONELLA ESTRELLA:	tmb uso iloveimg para redimensionar y va bastante bien
+02:59:25	Leonardo Juventino:	y para editar el tiempo que tardan en pasar las img
+02:59:28	Luz María Cerda A:	width
+02:59:35	Iñaki Merino:	estaba mal escrito
+02:59:40	[Tutor] Omar Manias:	Te recomiendo que busques otro recurso para redimensionar las imagenes
+02:59:43	Daniel Baena:	solamente esos?
+02:59:44	Santiago Diaz Monvale:	Los carrousels son únicamente para imágenes?
+02:59:57	Julián Campagnaro:	cambiándole el width, para después centrarlo cómo haríamos? con un justify content si es flex?
+03:00:09	[TUTORA] Sol Ianardi:	No Santi, podés colocar un div con texto
+03:00:19	Matias diaz:	y como hago el carousel mas chico?
+03:00:21	[TUTORA] Abril Aiello:	Claro eso que dice sol
+03:00:24	Iñaki Merino:	y se puede centrar la img dentro del carousel??
+03:00:25	[TUTORA] Sol Ianardi:	Videos o lo que quieras
+03:00:26	ANTONELLA ESTRELLA:	para q es ese w-100?
+03:00:30	Iñaki Merino:	porq podría funcionar en ese caso
+03:00:32	[TUTORA] Abril Aiello:	O videos o iframes también creo
+03:00:33	Jorge Luis López:	entonces aunque editemos la imagen, cuando cambie la resolución igual se deformará no?
+03:00:34	Santiago Diaz Monvale:	se puede poner un div con contenido?
+03:00:36	ANTONELLA ESTRELLA:	ahh ok
+03:00:36	Leonardo Juventino:	y para editar el tiempo que tardan en pasar las img
+03:00:39	[Tutor] Omar Manias:	width 100%
+03:00:46	Juan Barratines:	y para q no se deforme la imagen?
+03:00:47	[TUTORA] Sol Ianardi:	Le generas una class y le ponés el tamaño que quieras
+03:00:56	Juan Barratines:	cuando va por diferentes resoluciones?
+03:00:59	Julián Campagnaro:	para achicar el carrusel, se puede darle un width y un heigth?
+03:01:01	[TUTORA] Sol Ianardi:	Ahí está el tema de ir personalizando el contenido de bootstrap
+03:01:02	Fernando Mendez:	si quiero que el carrousel quede a un lado? lo puedo alinear?
+03:01:14	Julián Campagnaro:	y como hacemos para achicar el carrusel?
+03:01:19	Leonardo Juventino:	y para editar el tiempo que tardan en pasar las img
+03:01:20	[TUTORA] Sol Ianardi:	Lo pueden poner dentro de la grilla
+03:01:23	Daniel Baena:	el height si puede ir con px¡
+03:01:26	Daniel Baena:	?
+03:02:01	Alexis Delgado:	hace un carrousel sirve para el desafio del lunes?
+03:02:06	Facundo Parra:	si queremos poner por ej un background image y el carousel dentro , tendriamos que hacer un div y dentro de ese agregar otro div con el container-fluid y el carousel?
+03:02:09	Franco Brizuela:	por que no es recomendable no tocar el tamaño
+03:02:26	Bruno Realán:	si tocas el tamaño se rompe
+03:02:27	Martin Toledo Szumowski:	no se vuelve responsive
+03:02:32	Nicolas Segobia:	Eimi, consulta, si quiero poner un video de fondo, eso ya lo vimos o lo vamos a ver?de fondo de portada
+03:02:50	Andrea León:	el index
+03:03:36	Cristian Robles:	pero la imagen se dirtorciona
+03:03:37	Juan Barratines:	sisi
+03:03:41	Franco Biondi:	que programa para editar fotos recomienda?
+03:03:44	Cristian Robles:	aunque lo dejes asi
+03:03:46	Cristian Robles:	o vi mal
+03:04:10	juan villarreal:	Y ESO LO PUEDO MANIPULAR CON FLEX
+03:04:11	Iñaki Merino:	podria centrar las imágenes dentro del carousel?? Osea en caso de cambiar el porcentaje, es la única función que le encuentro al cambio de porcentaje
+03:04:12	juan villarreal:	VERDAD
+03:04:42	[TUTORA] Sol Ianardi:	Se centra automático Iñaki
+03:05:00	Fernando Mendez:	EXCELENTE
+03:05:05	[TUTORA] Sol Ianardi:	containterrowcolcarruselcoltexto
+03:05:11	Nicolas Segobia:	MESSIRVE
+03:05:13	Alexis Delgado:	le puedo poner margin a eso?=
+03:05:19	[TUTORA] Sol Ianardi:	Si Alexis
+03:05:30	Cristian Robles:	si queremos que un contenido ocupe 2 columnas?
+03:05:38	Martin Toledo Szumowski:	mucho texto
+03:05:41	Daniel Baena:	el proyecto final tiene que tener Bootstrap?
+03:05:45	[TUTORA] Sol Ianardi:	Tendrías que dividirlo en 6
+03:05:50	Cristian Robles:	no pero con ese ej
+03:06:00	Cristian Robles:	carrousel texto
+03:06:00	[Tutora] Mariana Servan:	Si Daniel
+03:06:09	ANTONELLA ESTRELLA:	siii
+03:06:10	ANTONELLA ESTRELLA:	amoo
+03:06:10	Bruno Realán:	si
+03:06:11	Iñaki Merino:	sip
+03:06:12	Juan Barratines:	si
+03:06:16	ANTONELLA ESTRELLA:	lo necesito
+03:06:18	Nicolas Segobia:	yo lo necesito
+03:06:18	Franco Nazzi:	El bars??
+03:06:22	ANTONELLA ESTRELLA:	jajaja
+03:06:25	Nicolas Segobia:	jajajaj
+03:06:27	Nicolas Segobia:	plis
+03:06:30	Nicolas Segobia:	estamos buscando eso
+03:06:33	[Tutor] Joaquín Viretti:	la creme de la creme
+03:06:37	ANTONELLA ESTRELLA:	jajaja
+03:06:40	Juan Barratines:	todo el curso esperando este momento
+03:06:41	[TUTORA] Sol Ianardi:	Muchos de mi camada me preguntaron por eso asi que presten atención! jajaj
+03:07:01	[Tutora] Gabriela Rodriguez:	Ya pase asistencia a mis alumnos, todos presentes
+03:07:09	ANTONELLA ESTRELLA:	gracias Gabi
+03:07:09	Alexis Delgado:	gracias gabi!!!
+03:07:10	Andres Platino:	la podemos aplicar en media query para smarphone de la nav?
+03:07:11	[Tutor] Omar Manias:	Igual por mi parte
+03:07:13	Alejandro De Souza:	gracias Gabi
+03:07:17	Facundo Parra:	prettier
+03:07:17	[Tutora] Gabriela Rodriguez:	👍🏻
+03:07:21	Andrea León:	Gracias Gaby
+03:07:23	Carlos Joaquin Rodriguez:	Podría hacer una navegación hamburguesa solo para mobile y dejar la navegación que ya tengo hecha para desktop?
+03:07:29	[TUTORA] Sol Ianardi:	Andrés ahora lo vemos, pero es magino automáticamente
+03:07:32	[Tutora] Gabriela Rodriguez:	😁
+03:07:53	Iñaki Merino:	Lo podes hacer con media query carlos
+03:08:02	Carlos Joaquin Rodriguez:	claro esa era la pregunta
+03:08:04	Carlos Joaquin Rodriguez:	gracias
+03:08:04	Alexis Delgado:	excelente!!!
+03:08:11	Facundo Parra:	mantiene la font que le hayamos puesto o trae una propia
+03:08:15	Juan Barratines:	se puede modificar las tres rayitas, onda ponerle otra cosa en lugar de las rayas?
+03:08:26	[TUTORA] Sol Ianardi:	Si Juan
+03:08:36	[Tutor] Joaquín Viretti:	"No me funciona el menú hamburguesa" -> revisen el script de BS. Ya me voy atajando jaja
+03:09:21	[TUTOR] Matias Palladino:	Se encuentra Kevin Parra Padilla?
+03:09:26	Nicolas Segobia:	pero lo puedo personalizar como lo tengo ahora? al menu
+03:09:30	Ignacio Bruno:	la idea es q todo el sitio sea con Bootstrap o simplemente puedo reemplazarlo por lo q siento convencional en cada pag?
+03:09:32	Nicolas Segobia:	una vez aplicado ese coidgo
+03:09:35	[Tutora] Gabriela Rodriguez:	Si NIco
+03:09:39	[TUTOR] Matias Palladino:	Lo que necesites Ignacio
+03:09:50	[TUTOR] Matias Palladino:	si reemplazas todo, van a quedar todos los sitios iguales, no es la idea
+03:09:57	Ignacio Bruno:	okey, claro
+03:10:15	Ignacio Bruno:	osea q no es necesario usar el nav con Bootstrap si o si por ej
+03:10:37	[TUTOR] Matias Palladino:	no, pero es como el componente mas util por ahi. Si podes resolverlo sin, perfecto.
+03:10:39	[TUTORA] Sol Ianardi:	No es necesario, siempre y cuando hagas un nav responsive
+03:10:44	[Tutora] Melisa Ferreyra:	Les va  facilitar el menu hambiurguesa
+03:10:54	Ignacio Bruno:	claro
+03:11:03	[Tutor] Joaquín Viretti:	No deberían quedar los 5 o más enlaces apiñados. En una resolución de 280px no entran ni de suerte
+03:11:22	[TUTORA] Sol Ianardi:	Pueden personalizarlo entero al menú, pueden organizarlo como quieran, ponerle el logo, cambiar el ícono del Burger
+03:11:30	Ignacio Bruno:	yo tengo el nav responsive igualmente con el nav normalito
+03:11:41	[TUTORA] Sol Ianardi:	Pero lo importante es que sean prolijos y nos borren clases por borrar
+03:11:46	Juan Barratines:	el icono es el span, no?
+03:11:49	Ignacio Bruno:	igual la rompe toda el nav d bootstrap
+03:11:53	Juan Barratines:	el class navbar-toggler-icon?
+03:11:54	Gabriel Rossetto:	yo podría modificar el nav-link ?
+03:12:01	[Tutora] Gabriela Rodriguez:	toman la clase nav-link y le aplican el color
+03:12:02	Gabriel Rossetto:	ok
+03:12:08	Renzo Yanzon:	A una clase de bs le puedo cambiar el color por ejemplp?
+03:12:13	Franco Biondi:	es recomendable comentar las clases por las dudas en un futuro las necesitemos?
+03:12:16	[TUTORA] Sol Ianardi:	Si Renzo
+03:12:29	[TUTORA] Abril Aiello:	No fran, no comentamos código que no estemos usando
+03:12:48	[TUTORA] Sol Ianardi:	Podés hacerlo Franco siempre y cuando no nos entregues código comentado :)
+03:12:57	Martin Toledo Szumowski:	es como volver a aprender a hacer HTML y css pero de bootstrap
+03:13:06	Andrea León:	ys=a salio
+03:13:07	Cristian Robles:	tiene witch en la etiqueta
+03:13:08	Daniel Baena:	claro eso pensaba
+03:13:11	Cristian Robles:	width
+03:13:13	Andrea León:	ya salio
+03:13:14	Bruno Realán:	ya salio
+03:13:18	Ignacio Bruno:	ya salio eimy
+03:13:23	Nicolas Segobia:	no lo tenias en sg¡
+03:13:24	[TUTORA] Abril Aiello:	No martu pero pensa que si no hubieses aprendido HTML y css antes, ahora no entenderías nada ed nada
+03:13:27	Nicolas Segobia:	svg
+03:13:28	[TUTORA] Sol Ianardi:	Primero vemos como hacerlo a mano y luego el que ya viene hecho jaja, para que sepan cómo modificarlo
+03:13:33	[Tutora] Gabriela Rodriguez:	las clases de bootsrap las pueden reutilizar tomando en cuenta el concepto de cascada, el  link del CSS propio debe estar despues del Link de bootstrap, de esa manera pueden pisar los estilos usando las mismas clases de bootstrap
+03:13:43	Renzo Yanzon:	Eimy, puede colocar las letras blancas para ver de ejemplo?
+03:14:20	Renzo Yanzon:	ahhh hay que agregarle, no se modifica la clase de bs
+03:14:29	Verónica del Mar Guiñan López:	muy importante lo que dijo Gaby, si piensan personalizar bootraps usando sus clases
+03:14:32	Facundo Parra:	te falto guardar el css
+03:14:36	[Tutor] Omar Manias:	no lo guardaste eimy
+03:14:37	[TUTORA] Sol Ianardi:	Podés hacerlo así tmb Renzo, podés sobreescribir la clase
+03:14:46	Renzo Yanzon:	ahhhh ok gracias sol
+03:14:53	Daniel Baena:	osea que toda la pagina tendría que ser con Bootstrap ? o solo puede ser una pagina
+03:14:55	[TUTOR] Matias Palladino:	Hay que tener en cuenta, que algunas clases de Bootstrap tienen !important en sus codigos
+03:14:55	[TUTORA] Sol Ianardi:	Podés verlo ahí o desde el inspeccionar del navegador
+03:15:05	Matias Diaz:	Te falto guardar el CSS
+03:15:07	Daniel Baena:	como había que poner un link de Bootstrap en cada pag
+03:15:37	Daniel Baena:	el menú hamburguesa se ve cuando es mas chico nomas?
+03:15:44	Ignacio Bruno:	sep
+03:15:45	[Tutor] Omar Manias:	todo es personalizable. Ojo con pisar clases anteriores
+03:15:47	[Tutora] Mariana Servan:	si, es la idea
+03:16:03	Emiliano Méndez Maneiro:	con un media query podes seconder las palabras del menu y dejar solo la hamburguesa
+03:16:10	Emiliano Méndez Maneiro:	esconder*
+03:16:37	juan villarreal:	yo el  ingles lo leo y lo escucho perfectamente
+03:16:40	[TUTOR] Matias Palladino:	Van a tener que leerla, de forma obligatoria, para usar Bootstrap
+03:16:41	juan villarreal:	pero no lo entiendo
+03:16:43	Santino Teixeira:	pero es copiar y pegar eso, solo buscar
+03:16:43	[Tutor] Omar Manias:	Les dejo esto que es mas que interesante para implementar de la mano con Boostrap https://bootswatch.com/
+03:16:43	[TUTOR] Eduardo Neira:	no necesariamente Emiliano
+03:16:57	[TUTOR] Matias Palladino:	No solo es copiar y pegar Santino
+03:17:01	[TUTOR] Matias Palladino:	algunas cosas necesitan tener modificaciones
+03:17:08	Iñaki Merino:	Y si quiero usar el logo como dirección al index, pero luego quiero que al aparecer el navbar con hamburguesa aparezca la dirección al index como una palabra mas???
+03:17:10	[TUTOR] Matias Palladino:	como dije antes, si tienen mas de un carrusel, por ejemplo
+03:17:11	[TUTOR] Eduardo Neira:	si siempre con cambiar una clase puedes dejar siempre la hamaburguesa visible
+03:17:20	[Profesora]Eimy Blanco:	https://bootstrap-cheatsheet.themeselection.com/
+03:17:32	Leonardo Juventino:	se puede cambiar el inicio de el menú comprimido, es decir que aparezcan las tres rayitas en una resolución menor?
+03:18:02	[TUTOR] Eduardo Neira:	si Leo
+03:18:05	[TUTOR] Eduardo Neira:	es una clase
+03:18:10	[Profesora]Eimy Blanco:	https://getbootstrap.com/docs/5.1/examples/
+03:18:15	[TUTOR] Eduardo Neira:	lo puedes ver en la documentación
+03:18:51	Leonardo Juventino:	ok
+03:18:51	[TUTOR] Matias Palladino:	Leo, en este link https://getbootstrap.com/docs/5.1/components/navbar/#responsive-behaviors
+03:18:51	Julián Campagnaro:	acá se perdería un poco lo de boxmodeling pero estaría okey no ?
+03:18:53	juan villarreal:	este fin de semana va estar muy interesante
+03:19:16	Ignacio Bruno:	oh no
+03:19:20	Andrea León:	upa
+03:19:29	Camila Gonzalez:	😭
+03:19:31	Emiliano Méndez Maneiro:	no otra vez, no de nuevo decia
+03:19:46	Matias diaz:	si o si el index?
+03:19:59	[Tutor] Omar Manias:	cualquier seccion
+03:20:10	[TUTORA] Abril Aiello:	Practiquen hasta soñar con bootstrap
+03:20:12	[Tutor] Omar Manias:	pueden usar el formulario en contacto
+03:20:14	Facundo Parra:	eso , si o si tiene que estar el index?
+03:20:20	Andres Platino:	o maquetar nav y footer ?
+03:20:21	Martin Toledo Szumowski:	y podemos cambiar la navegación por ejemplo
+03:20:22	Facundo Parra:	uf gracias
+03:20:25	Andrea León:	ok
+03:20:28	Martin Toledo Szumowski:	con una sección basta
+03:20:28	Ivan Ortiz Ramirez:	ok
+03:20:36	[Tutora] Melisa Ferreyra:	dos secciones. Ustedes eligen
+03:20:46	Valentin Caudana:	genial
+03:20:49	Renzo Yanzon:	creamos una rama y después hacemos merge?
+03:20:50	Daniel Baena:	la pagina entera no? con navegación y todo el main también?
+03:20:56	Ignacio Bruno:	a tda la sección se aplica?? o a lo q vea conveniente
+03:20:57	[TUTORA] Abril Aiello:	Pero si nos meten un nav que es copiar y pegar en dos secciones medio que es chamuyo
+03:20:57	Nicolas Segobia:	Eimi,  nos podras enviar nuevamente lo pasos para guardar en git?
+03:20:59	Daniel Baena:	o con una sección de cada pagina ya esta?
+03:21:03	[TUTORA] Abril Aiello:	Investiguen un poco mas allá de eso
+03:21:28	[TUTOR] Matias Palladino:	Los que aun tengan problemas con git, repasen las clases anterior por favor.
+03:21:33	[Tutor] Omar Manias:	la galería pueden armas con las cards
+03:21:36	[Tutor] Omar Manias:	exacto
+03:21:36	[TUTOR] Matias Palladino:	Vean el after tambien
+03:21:52	[TUTORA] Abril Aiello:	No jodan a mati con git que es un tema muy adorado para el(?
+03:21:53	Ignacio Bruno:	ya me vi la clase 3 veces mas mati jajajaj, todo entendidisimo
+03:22:10	[TUTORA] Abril Aiello:	Igual si, ya anótense en un papelito los comandos y tenganlo al lado
+03:22:11	[TUTOR] Matias Palladino:	Git ❤️
+03:22:32	Ignacio Bruno:	joya
+03:22:44	Matias diaz:	cuenta que las 5 paginas tenga la navegación?
+03:22:46	Iñaki Merino:	el navbar cuenta como 5 paginas??
+03:22:46	Matias diaz:	jajaja
+03:22:47	Martin Toledo Szumowski:	git add .git commit -mgit push
+03:22:56	ANTONELLA ESTRELLA:	Eimy para q me da ansiedad
+03:22:59	[Tutor] Joaquín Viretti:	No me quedó claro
+03:23:05	[TUTORA] Abril Aiello:	No tramposos jajajaj metan alguna cosita mas que un nav
+03:23:07	[TUTOR] Matias Palladino:	Creo que tiene que ser RESPONSIVE
+03:23:12	Yair Turco:	en las 5 paginas tiene que haber un elemento con bootstrap? o tienen que ser completamente Bootstrap?
+03:23:12	Iñaki Merino:	creo que tiene que quedar responsive
+03:23:14	Matias diaz:	jajajajja
+03:23:20	Andres Platino:	para eso agregamos otro repositorio en GitHub no?
+03:23:23	Ana Paula Rosaschi:	bueno habrá que morir
+03:23:24	Juan Barratines:	tiene q ser responsive? 🙃
+03:23:25	[TUTOR] Matias Palladino:	No
+03:23:25	Fernando Mendez:	tenemos que hacer el merge? o puedo dejarlo en una rama?
+03:23:25	Andres Platino:	para la pagina nueva esta
+03:23:25	Alexis Delgado:	nos vemos la próxima!!!
+03:23:25	Cristian Robles:	creo que trata de decirnos algo
+03:23:28	[TUTOR] Matias Palladino:	SIEMPRE, el mismo repositorio
+03:23:29	Ignacio Bruno:	lleno d scripts va a qdar el proyecto
+03:23:31	Juan Barratines:	perfecto
+03:23:34	Bruno Realán:	para cuando es el desafio
+03:23:42	[TUTORA] Abril Aiello:	No andi, la idea de los repos es que siempre usen el mismo repositorio en lugar de crear uno nuevo cada entrega
+03:23:42	Bruno Realán:	ok
+03:23:43	[TUTORA] Sol Ianardi:	Recuerden que el complementario no tiene corrección, por lo tanto si saben que no cumplen con la consigna no lo entreguen :)
+03:23:46	Alejandro De Souza:	lo que pregunto Yair: en las 5 paginas tiene que haber un elemento con bootstrap? o tienen que ser completamente Bootstrap?
+03:23:48	[TUTOR] Eduardo Neira:	vence el miércoles que viene
+03:23:49	ANTONELLA ESTRELLA:	los dos el 18?
+03:23:50	[Tutor] Joaquín Viretti:	Mantengan un repo, el proyecto final pide el historial de commits disponible!
+03:23:52	[TUTORA] Abril Aiello:	Todos los desafíos tienen una semana, como siempre
+03:23:57	Andres Platino:	gracias
+03:23:58	juan villarreal:	MIERCOLES EN LA AMANANA O EN LA TARDE?
+03:24:00	[TUTOR] Matias Palladino:	Ale, poner solo un componente de Bootstrap no les aprueba el desafio
+03:24:01	Matías leonel loglio:	consulto por la asistencia, tengo problemas de conexión y no me llegó notificación
+03:24:04	Cristian Robles:	eimy
+03:24:10	Cristian Robles:	hace los pasos de GIT
+03:24:14	Fernando Mendez:	cuando copio el link desde la rama en GitHub, se entra directo a la rama?
+03:24:15	Cristian Robles:	con estos cambios
+03:24:25	Cristian Robles:	con merge please
+03:24:25	Verónica del Mar Guiñan López:	Mati cualquier cosa le escribes a tu tutor@
+03:24:25	[TUTOR] Matias Palladino:	De nuevo chicos, REPASEN, las clases anteriores
+03:24:29	Gabriel Rossetto:	:o
+03:24:42	juan villarreal:	hay que ponerle 30 horas al duia jajaja
+03:24:50	Fernando Mendez:	o entra al repo pero no a la rama?
+03:24:53	Verónica del Mar Guiñan López:	la plataforma a veces no avisa, si tiene problema con la asistencia nos escriben por privado
+03:25:09	[TUTOR] Matias Palladino:	Puede que si no les figura la asistencia, apreten Ctrl R para recargar la pagina
+03:25:12	juan villarreal:	y la rama ?
+03:25:16	[TUTOR] Matias Palladino:	a veces, pasa que no carga
+03:25:39	Renzo Yanzon:	en las dos paginas con bs, hay que hacer el 100% de la pagina con bs o puede ser una parte solamente? por ejemplo el contenido del main
+03:25:43	Franco Biondi:	eso de set up origin que es?
+03:25:45	[Tutora] Mariana Servan:	si, hay que dedicarle tiempo, hay que leer, ver los videos de clase y after, googlear, etc
+03:25:55	[TUTORA] Sol Ianardi:	Una parte está bien Renzo
+03:26:10	[TUTORA] Sol Ianardi:	Pero el nav o el footer cuentan para un solo html
+03:26:18	Renzo Yanzon:	Perfecto
+03:26:19	juan villarreal:	me siento como el canelo alvarez el sabado
+03:26:22	Alexis Delgado:	y si ahora quiero abrir el proyecto main y no la rama como hago??
+03:26:27	[Tutora] Gabriela Rodriguez:	puede ser el menu renzo
+03:26:37	Nicolas Segobia:	enviamos el url para entrega?
+03:26:40	[Tutora] Gabriela Rodriguez:	asi ya les sale el menu hamburguesa en mobile
+03:26:42	Alexis Delgado:	wooow
+03:26:42	Andres Platino:	en visual donde dice en que rama estoy?
+03:26:44	Valentin Caudana:	pero dejamos todos las ramas o las unimos ?
+03:26:45	[TUTOR] Matias Palladino:	La entrega se hace por GitHub si
+03:26:46	Verónica del Mar Guiñan López:	si Nico
+03:26:53	[TUTOR] Matias Palladino:	Valentin, depende si te gustan los cambios
+03:26:54	Gabriel Rossetto:	y en githubpages, que rama aparecerá?
+03:26:57	[Tutora] Mariana Servan:	si, de ahora en más entregan el link de github
+03:26:59	[TUTOR] Matias Palladino:	si te agrada como queda, podes mergearla
+03:27:03	Andrea León:	y si no quiero cambiar de rama puedo?
+03:27:03	Verónica del Mar Guiñan López:	ahora todas las entregas se harán con el link del repo
+03:27:04	[Tutora] Gabriela Rodriguez:	Recuerden que las entregas son por github
+03:27:10	[Tutora] Melisa Ferreyra:	en visual en el margen inferior izquierdo a veces aparece!!
+03:27:13	Andrea León:	ok
+03:27:17	Valentin Caudana:	genial gracias
+03:27:20	[Tutora] Gabriela Rodriguez:	no es necesario que hagan una rama nueva
+03:27:25	Andres Platino:	gracias melisa
+03:27:40	Valentin Caudana:	solo con comentarios esta bien gabi ?
+03:27:41	Juan Barratines:	fantástico, finde de lectura
+03:27:42	[TUTOR] Matias Palladino:	Si usan una rama y no hacen merge, cambien la rama que va a usar GitHub Pages
+03:27:50	ANTONELLA ESTRELLA:	me dio ansiedad
+03:27:53	[Tutora] Gabriela Rodriguez:	si valentin
+03:27:57	Valentin Caudana:	gracias
+03:27:57	[TUTOR] Eduardo Neira:	lo de rama es recomendable para que tengan una versión anterior por las dudas
+03:28:05	Iñaki Merino:	jajasjajsjasj
+03:28:06	[TUTOR] Eduardo Neira:	pero eso ya lo decide cada uno
+03:28:08	juan villarreal:	ya somos 2 Antonella
+03:28:13	Juan Barratines:	viene Eimy y te pega
+03:28:15	Edgar Hernandez:	jajaj
+03:28:15	Iñaki Merino:	oka
+03:28:17	ANTONELLA ESTRELLA:	gracias Juan jajaja
+03:28:21	Camila Gonzalez:	jajajaa
+03:28:22	Renzo Yanzon:	para subir la rama a GitHub tengo que poner git push no? si tengo varias ramas y quiero subir una solamente?
+03:28:29	Alexis Delgado:	gracias profeee, nos vemos la proxima
+03:28:30	Andrea León:	roll
+03:28:32	Juan Barratines:	listo
+03:28:33	juan villarreal:	May the force be with you
+03:28:37	Ignacio Bruno:	listoo
+03:28:39	ANTONELLA ESTRELLA:	oki
+03:28:43	Andrea León:	Gracias
+03:28:43	Ana Paula Rosaschi:	buenisimo
+03:28:49	Mateo Gayo:	chau
+03:28:50	[Tutora] Melisa Ferreyra:	buen findee
+03:28:51	Franco Biondi:	bueno Eimy saludos
+03:28:53	Juan Barratines:	gracias profe!
+03:28:53	Valentin Caudana:	gracias
+03:28:53	Gabriel Rossetto:	no tengo mi asistencia :8
+03:28:55	Valentin Caudana:	buen finde
+03:28:56	Juan Pablo Di Pace:	gracias!
+03:28:57	Ana Paula Rosaschi:	graciassss
+03:28:58	Juan Barratines:	nos vemos el lunes
+03:28:58	Martin Toledo Szumowski:	Y QUE SEA RESPONSIVE!
+03:28:59	Andres Platino:	gracias
+03:29:00	Agustina Clarens:	eimy te puedo consultar algo si nadie tiene dudas
+03:29:00	Juan Barratines:	buen finde
+03:29:00	[Tutora] Melisa Ferreyra:	lean la documentacion. revisen la grabacion. valoren!!!!
+03:29:00	Fernando Calligo:	Buen finde a todos
+03:29:00	Alejandro De Souza:	Igualmente! Nos vemos!
+03:29:01	Valentin Caudana:	nos vemos el lunes
+03:29:02	juan villarreal:	buenas noches y que la paz de boostrap se quede con uds
+03:29:03	Martin Toledo Szumowski:	nos vemos
+03:29:03	Daniela Poblete:	gracias :3 nos vemos
+03:29:04	Ignacio Bruno:	nos vemos!
+03:29:04	Fernando Mendez:	gracias y buen finde!
+03:29:04	Matias diaz:	adiós!!
+03:29:05	Ana Paula Rosaschi:	buen finde
+03:29:05	Juan Pablo Di Pace:	chaooo
+03:29:05	Sandra Quevedo:	buen finde y gracias!
+03:29:09	[Tutora] Gabriela Rodriguez:	bye
+03:29:09	Renzo Yanzon:	Saludos
+03:29:09	[Tutora] Mariana Servan:	ya la pase Gabi
+03:29:10	Luca March Ficarra:	byee
+03:29:11	Ana Paula Rosaschi:	nos vemos
+03:29:12	Camila Gonzalez:	nos vemos! buen finde para todos
+03:29:13	Agustina Clarens:	aca
