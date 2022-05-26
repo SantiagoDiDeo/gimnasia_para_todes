@@ -1,0 +1,219 @@
+/* MEDIA QUERIES */
+
+@media (min-width: 541px) and (max-width: 720px) {
+    
+    .header {
+
+    
+    &__lista {
+        display: flex;
+        flex-direction: column;
+        &-li {
+            display: inline; 
+            padding: 1rem 0;
+        }
+    }
+
+    &__tituloLogo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100vw;
+    }
+
+    &__logo {
+        display: flex;
+        align-self: center;
+        transform: translateX(-70%)
+    }
+
+    &__nav {
+        position: static;
+    }
+
+    &__titulo {
+        transform: translateX(-30%);
+        justify-content: center;
+        align-content: center;
+    }
+
+    &__tituloB {
+        transform: translateX(-70%);
+        align-content: center;
+    }
+    }
+    .grid__containerRef {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "grid__itemUno grid__itemTres"
+                            "grid__itemDos grid__itemCuatro"
+                            "grid__itemCinco grid__itemSiete"
+                            "grid__itemSeis grid__itemOcho" ;
+    }
+
+
+    .main {
+        
+    &__parrafo {
+        width: 90vw;
+    }
+
+    &__wiki {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__video-parrafo {
+        flex-direction: column;
+        align-items: center;
+        width: 100vw;
+    }
+
+    &__videos {
+        width: 85vw;
+        height: 100vh;
+    }
+
+    &__video {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+    }
+
+    &__videos .iframe {
+        width: 85vw;
+        height: 100vh;
+        padding: 0.5rem;
+    }
+}
+
+.footer {
+
+    &__redes {
+        display: flex;
+        flex-direction: column;
+    } 
+}
+}
+
+/* MEDIA MOVIL */
+
+@media (min-width: 320px) and (max-width: 540px) {
+    
+        .header {
+        &__lista {
+            display: flex;
+            flex-direction: column;
+            &-li {
+                display: inline; 
+                padding: 1rem 0;
+            }
+        }
+
+        &__tituloLogo {
+            display: flex;
+            flex-direction: column;
+        }
+
+        &__logo {
+            display: flex;
+            justify-content: center;
+            transform: translateX(-70%)
+        }
+
+        &__nav {
+            position: static;
+        }
+
+        &__titulo {
+            transform: translateX(-40%);
+        }
+        
+        &__tituloB {
+            transform: translateX(-80%);
+            align-content: center;
+        }
+    }
+
+    .main {
+
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+            
+            &__video-parrafo {
+                flex-direction: column;
+                align-items: center;
+                width: 100vw;
+            }
+
+            &__videos {
+                width: 85vw;
+                height: 100vh;
+            }
+
+            &__video {
+                display: flex;
+                flex-direction: column;
+                width: 100vw;
+                height: 100vh;
+                justify-content: center;
+                align-items: center;
+            }
+
+            &__videos .iframe {
+                width: 80vw;
+                height: 100vh;
+                padding: 1rem;
+            }
+
+            &__parrafo{
+                display: flex;
+                flex-direction: column;
+                margin: 1.875rem;
+                align-items: center;
+                justify-self: center;
+                width: 70vw;
+            }
+            
+            &__parrafo .font-monospace {
+                justify-content: center;
+            }
+
+            &__texto {
+                display: flex;
+                flex-direction: column;
+                margin: 1.875rem;
+            }
+            
+            &__wiki {
+                display: flex;
+                flex-direction: column;
+            }
+    }
+
+    .grid__containerRef {
+        grid-template-columns: 1fr;
+        grid-template-areas: "grid__itemUno" 
+                            "grid__itemTres"
+                            "grid__itemDos" 
+                            "grid__itemCuatro"
+                            "grid__itemCinco"
+                            "grid__itemSiete"
+                            "grid__itemSeis" 
+                            "grid__itemOcho" ;
+    }
+
+    
+    .footer {
+        
+        &__redes {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+    
+    
+}

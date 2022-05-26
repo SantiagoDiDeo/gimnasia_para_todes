@@ -1,0 +1,63 @@
+/* FOOTER */
+
+.footer {
+    grid-area: footer;
+    display: flex;
+    flex-direction: column;
+    background-color: $color-secundario;
+
+    &__texto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: $color-principal;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    font-size: 1.563rem;
+    font-family: $fuente-titulo;
+    width: 100vw;
+    text-decoration: none;
+    
+}
+
+&__animacion {
+    animation: cssAnimation_0 4s infinite ease;
+
+    @keyframes cssAnimation_0 {
+        to {
+            transform: translate(1.25rem, 1.25rem) scale(1.5, 1.6);
+        }
+    }
+}
+
+&__redes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: $color-secundario;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;  
+    font-size: 1.25rem;
+    
+}
+
+&__link {
+    padding: 0.625rem;
+    border-radius: 0.625rem;
+    border: 0.125rem solid $color-border-button;
+    background-image: linear-gradient(to top, $color-secundario, $color-gradiente-uno);
+
+    &__a {
+        text-decoration: none;
+        color: $color-principal;
+    }
+
+    &:hover {
+        transform: scale(1.2);
+    }
+}
+}
+
+/* FIN FOOTER */
