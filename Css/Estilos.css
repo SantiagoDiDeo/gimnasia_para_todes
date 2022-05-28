@@ -1,5 +1,18 @@
 /* COLORES */
 /* FUENTES */
+/* EACH */
+h1 {
+  font-size: 0.875rem; }
+
+h3 {
+  font-size: 1.775rem; }
+
+h4 {
+  font-size: 1.5rem; }
+
+article {
+  font-size: 1.25rem; }
+
 /* HEADER */
 .header {
   display: flex;
@@ -63,6 +76,7 @@
     align-items: center;
     font-family: "Lobster";
     text-align: center;
+    /* font-size: 1.875rem; */
     color: white;
     border: 0.188rem solid black;
     border-radius: 1.25rem;
