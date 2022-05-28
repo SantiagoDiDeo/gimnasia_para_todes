@@ -2,7 +2,7 @@
 /* FUENTES */
 /* EACH */
 h1 {
-  font-size: 0.875rem; }
+  font-size: 1.875rem; }
 
 h3 {
   font-size: 1.775rem; }
@@ -76,7 +76,6 @@ article {
     align-items: center;
     font-family: "Lobster";
     text-align: center;
-    /* font-size: 1.875rem; */
     color: white;
     border: 0.188rem solid black;
     border-radius: 1.25rem;
@@ -89,7 +88,6 @@ article {
     transform: translate(-45vw, -10vh);
     align-items: center;
     font-family: "Lobster";
-    font-size: 1.875rem;
     text-align: center;
     color: white;
     border: 0.188rem solid black;
@@ -143,7 +141,7 @@ article {
     border-radius: 0.625rem;
     border: 0.125rem solid #00b176;
     background-image: linear-gradient(to top, black, #2e2e2e); }
-    .footer__link__a {
+    .footer__link .a {
       text-decoration: none;
       color: white; }
     .footer__link:hover {
@@ -190,11 +188,10 @@ article {
     border: 0.125rem solid black;
     border-radius: 1.875rem;
     box-sizing: border-box; }
-  .main__parrafo .font-monospace {
+  .main__parrafo .article {
     display: flex;
     flex-direction: column;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
-    font-size: 1.25rem;
     color: white;
     text-align: justify;
     justify-content: center;
@@ -244,10 +241,9 @@ article {
   .main__fotos {
     display: flex;
     flex-direction: row; }
-  .main__subtitulo {
+  .main__subtitulo-h3 {
     display: inline;
     font-family: "Lobster";
-    font-size: 1.875rem;
     margin: 1.875rem;
     padding: 0.625rem;
     vertical-align: text-top;
@@ -261,7 +257,7 @@ article {
     display: flex;
     flex-direction: column;
     font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
-    font-size: 1.563rem;
+    /* font-size: 1.563rem ; */
     color: black;
     text-align: center;
     align-items: center;
