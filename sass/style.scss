@@ -124,7 +124,7 @@
         flex-direction: row;
     }
     
-    &__subtitulo-h3 {
+    &__subtitulo-h2 {
         display: inline;
         font-family: $fuente-titulo;
         margin: 1.875rem;
@@ -147,7 +147,7 @@
         text-align: center;
         align-items: center;
         word-spacing: 0.313rem;
-        &-h4 {
+        &-h3 {
             background-color: $color-sub;
             text-align: center;
             padding-left: 0.938rem;

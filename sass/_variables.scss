@@ -17,7 +17,7 @@ $fuente-subtitulo: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'sans-serif';
 
 /* EACH */
 
-$sizes: (h1: 1.875rem, h3: 1.775rem, h4: 1.5rem, article: 1.25rem);
+$sizes: (h1: 1.875rem, h2: 1.775rem, h3: 1.5rem, article: 1.25rem);
 
 @each $texto, $size in $sizes {
     #{$texto}{

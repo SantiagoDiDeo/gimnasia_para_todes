@@ -4,10 +4,10 @@
 h1 {
   font-size: 1.875rem; }
 
-h3 {
+h2 {
   font-size: 1.775rem; }
 
-h4 {
+h3 {
   font-size: 1.5rem; }
 
 article {
@@ -241,7 +241,7 @@ article {
   .main__fotos {
     display: flex;
     flex-direction: row; }
-  .main__subtitulo-h3 {
+  .main__subtitulo-h2 {
     display: inline;
     font-family: "Lobster";
     margin: 1.875rem;
@@ -262,7 +262,7 @@ article {
     text-align: center;
     align-items: center;
     word-spacing: 0.313rem; }
-    .main__sub-h4 {
+    .main__sub-h3 {
       background-color: #029cf5;
       text-align: center;
       padding-left: 0.938rem;
