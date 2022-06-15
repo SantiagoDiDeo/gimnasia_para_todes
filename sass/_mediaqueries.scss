@@ -142,6 +142,9 @@
         &__titulo {
             transform: translateX(-45%);
             width: 90vw;
+            align-content: center;
+            justify-content: center;
+            margin: 0.2rem;
         }
         
         &__tituloB {

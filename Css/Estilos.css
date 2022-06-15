@@ -462,7 +462,10 @@ article {
     position: static; }
   .header__titulo {
     transform: translateX(-45%);
-    width: 90vw; }
+    width: 90vw;
+    align-content: center;
+    justify-content: center;
+    margin: 0.2rem; }
   .header__tituloB {
     transform: translateX(-80%);
     align-content: center; }
