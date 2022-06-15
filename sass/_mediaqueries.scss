@@ -27,6 +27,10 @@
         transform: translateX(-70%)
     }
 
+    &__logo-nav {
+        display: none;
+    }
+
     &__nav {
         position: static;
     }
@@ -95,6 +99,10 @@
         display: flex;
         flex-direction: column;
     } 
+
+    &__link {
+        margin: 1rem;
+    }
 }
 }
 
@@ -123,12 +131,20 @@
             transform: translateX(-70%)
         }
 
+        &__logo-nav {
+            display: none;
+        }
+
         &__nav {
             position: static;
         }
 
         &__titulo {
-            transform: translateX(-40%);
+            transform: translateX(-45%);
+            width: 90vw;
+            align-content: center;
+            justify-content: center;
+            margin: 0.2rem;
         }
         
         &__tituloB {
@@ -209,11 +225,26 @@
     
     .footer {
         
+        &__animacion {
+            animation: cssAnimation_0 4s infinite ease;
+        
+            @keyframes cssAnimation_0 {
+                to {
+                    transform: translate(1rem, 1rem) scale(1.2, 1.1);
+                }
+            }
+        }
+
         &__redes {
             display: flex;
             flex-direction: column;
         }
+
+        &__link {
+            margin: 1rem;
+        }
     }
+    
     
     
 }
