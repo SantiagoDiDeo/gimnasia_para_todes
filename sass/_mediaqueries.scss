@@ -3,7 +3,6 @@
 @media (min-width: 541px) and (max-width: 720px) {
     
     .header {
-
     
     &__lista {
         display: flex;
@@ -49,7 +48,6 @@
                             "grid__itemCinco grid__itemSiete"
                             "grid__itemSeis grid__itemOcho" ;
     }
-
 
     .main {
         
@@ -209,7 +207,6 @@
                             "grid__itemSeis" 
                             "grid__itemOcho" ;
     }
-
     
     .footer {
         
@@ -217,7 +214,5 @@
             display: flex;
             flex-direction: column;
         }
-    }
-    
-    
+    }    
 }
