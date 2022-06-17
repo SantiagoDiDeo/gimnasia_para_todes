@@ -101,6 +101,13 @@
 @media (min-width: 320px) and (max-width: 540px) {
     
         .header {
+
+            padding: unset;
+            padding: 3rem 0;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
         &__lista {
             display: flex;
             flex-direction: column;
@@ -115,10 +122,18 @@
             flex-direction: column;
         }
 
+        &__img-container {
+            width: 8rem;
+            margin-bottom: 2rem;
+            
+        }
+
         &__logo {
-            display: flex;
-            justify-content: center;
-            transform: translateX(-70%)
+            width: 100%;
+            height: 100%;
+            margin: unset;
+            padding: unset;
+            transform: translate(0, 0);
         }
 
         &__nav {
@@ -126,11 +141,11 @@
         }
 
         &__titulo {
-            transform: translateX(-45%);
-            width: 90vw;
-            align-content: center;
-            justify-content: center;
-            margin: 0.2rem;
+            transform: translate(0, 0);
+            width: 75%;
+            font-size: 1.2rem;
+
+            
         }
         
         &__tituloB {

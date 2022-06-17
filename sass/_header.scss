@@ -53,6 +53,12 @@
 
     /* LOGO */
 
+   /*  &__img-container {
+        width: 8rem;
+        margin-bottom: 2rem;
+        
+    } */
+
     &__logo {
         display: flex;
         flex-direction: row;
@@ -67,6 +73,8 @@
         border: 0.125rem solid gray;
         background-color: $color-principal;
     }
+
+
 
     /* TITULO */
 
@@ -108,3 +116,4 @@
         width: 100vw;
     }
 }
+
