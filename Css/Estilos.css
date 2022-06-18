@@ -82,7 +82,7 @@ article {
     flex-direction: row;
     margin-top: 10px;
     justify-content: flex-start;
-    transform: translate(-15vw, -10vh);
+    transform: translate(-10vw, -10vh);
     margin: 6vw;
     border-radius: 50%;
     width: 11rem;
