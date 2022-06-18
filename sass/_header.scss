@@ -13,12 +13,35 @@
 
     /* BARRA DE NAVEGACION */
     
+&__naveg {
+    display: flex;
+    width: 100vw;
+    padding: 1rem 2rem 1rem 1rem;
+    position: sticky;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: space-between;
+    background-image: linear-gradient(to right, #6dc0e0, #029cf5);
+}
+
+    &__logo-nav {
+        width: 3rem 2rem;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 0.125rem solid gray;
+}
+    
+    &__logo-img {
+        width: 100%;
+        height: 100%;
+    }
+
     &__nav {
             display: flex;
             flex-direction: row;
             justify-content: center;
-            width: 100vw;
-            background-image: linear-gradient(to right,$color-gradiente-dos, $color-sub);
+            align-items: center;
     }
 
     &__lista {
@@ -27,11 +50,13 @@
         text-align: center;
         justify-content: space-between;
         align-items: center;
-        width: 70vw;
+        width: 100%;
         font-family: $fuente-subtitulo;
         list-style-type: none;
+        margin-bottom: unset;
+        padding: unset;
         &-li {
-            display: inline; 
+            display: inline;
         }
 
         &-li:hover {
@@ -45,19 +70,13 @@
         color: $color-principal;
         font-size: 1.375rem;
         width: 100%;
-        padding: 0.5rem 1rem;
-        border: 2px solid $color-border-button;
+        padding: 0.4rem 0.6rem;
+        margin-left: 1rem;
         border-radius: 0.625rem;
         background-image: linear-gradient(to top, $color-boton-nav, $color-gradiente-dos);
     }
 
     /* LOGO */
-
-   /*  &__img-container {
-        width: 8rem;
-        margin-bottom: 2rem;
-        
-    } */
 
     &__logo {
         display: flex;

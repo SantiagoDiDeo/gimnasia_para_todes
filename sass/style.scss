@@ -22,7 +22,6 @@
     height: 100vh;
 }
 
-
 /* MAIN */
 
 .main {
@@ -288,8 +287,20 @@
     display: flex;
     flex-direction: column;
     overflow: visible;
-    background-image: url(../Recursos/fondo-pantalla.jpg);
     background-size: contain;
+}
+
+.btn-enviar {
+    text-decoration: none;
+        color: $color-principal;
+        font-size: 1.275rem;
+        width: 100%;
+        padding: 0.4rem 0.16rem;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid $color-border-button;
+        border-radius: 0.625rem;
+        background-image: linear-gradient(to top, $color-boton-nav, $color-gradiente-dos);
 }
 
 @import 'mediaqueries';

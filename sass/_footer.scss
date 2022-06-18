@@ -3,9 +3,10 @@
 .footer {
     grid-area: footer;
     display: flex;
-    flex-direction: column;
     background-color: $color-secundario;
-
+    justify-content: center;
+    align-items: center;
+    
     &__texto {
     display: flex;
     flex-direction: row;
@@ -18,7 +19,6 @@
     font-family: $fuente-titulo;
     width: 100vw;
     text-decoration: none;
-    
 }
 
 &__animacion {
@@ -31,22 +31,29 @@
     }
 }
 
+&__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    
+}
+
 &__redes {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     text-align: center;
     background-color: $color-secundario;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;  
     font-size: 1.25rem;
-    
+    width: 50%;
 }
 
 &__link {
     padding: 0.625rem;
     border-radius: 0.625rem;
-    border: 0.125rem solid $color-border-button;
     background-image: linear-gradient(to top, $color-secundario, $color-gradiente-uno);
     
     & .a {

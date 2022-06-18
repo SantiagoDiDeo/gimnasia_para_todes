@@ -20,6 +20,17 @@
         width: 100vw;
     }
 
+    &__naveg {
+        position: unset;
+        justify-content: center;
+    }
+
+    
+
+    &__logo-nav {
+        display: none;
+    }
+
     &__logo {
         display: flex;
         align-self: center;
@@ -88,12 +99,22 @@
 }
 
 .footer {
-
+        padding-bottom: 2rem;
     &__redes {
-        display: flex;
+
         flex-direction: column;
-    } 
+        padding: unset;
+        height: 12rem;
+
+    }
+    
+    &__texto {
+        display: inline-block;
+        text-align: center;
+        margin: 1rem 0 4rem 0;
+    }
 }
+
 }
 
 /* MEDIA MOVIL */
@@ -128,6 +149,16 @@
             
         }
 
+        &__naveg {
+            position: unset;
+            justify-content: center;
+        }
+    
+
+        &__logo-nav {
+            display: none;
+        }
+
         &__logo {
             width: 100%;
             height: 100%;
@@ -149,8 +180,9 @@
         }
         
         &__tituloB {
-            transform: translateX(-80%);
+            transform: translate(0, 0);
             align-content: center;
+            margin: 1rem;
         }
     }
 
@@ -224,10 +256,30 @@
     }
     
     .footer {
-        
-        &__redes {
-            display: flex;
-            flex-direction: column;
+        padding-bottom: 2rem;
+    &__redes {
+
+        flex-direction: column;
+        padding: unset;
+        height: 12rem;
+        margin: 6%;
+
+    }
+    
+    &__texto {
+        display: inline-block;
+        text-align: center;
+        margin: 1rem 0;
+    }
+
+    &__animacion {
+        animation: cssAnimation_0 4s infinite ease;
+    
+        @keyframes cssAnimation_0 {
+            to {
+                transform: translate(0.9rem, 0.9rem) scale(1.2, 1.3);
+            }
         }
-    }    
+    }
+}
 }
