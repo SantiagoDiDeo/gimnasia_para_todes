@@ -9,14 +9,13 @@
     
     &__texto {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     text-align: center;
-    color: $color-principal;
+    color: $color-nav;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
     font-size: 1.563rem;
-    font-family: $fuente-titulo;
+    font-family: $fuente-subtitulo;
     width: 100vw;
     text-decoration: none;
 }
@@ -58,7 +57,7 @@
     
     & .a {
         text-decoration: none;
-        color: $color-principal;
+        color: $color-nav;
     }
 
     &:hover {

@@ -1,13 +1,14 @@
 /* COLORES */
+/* #013881 */
 /* FUENTES */
 /* EACH */
 h1 {
-  font-size: 1.875rem; }
+  font-size: 2.875rem; }
 
-h3 {
+h2 {
   font-size: 1.775rem; }
 
-h4 {
+h3 {
   font-size: 1.5rem; }
 
 article {
@@ -32,13 +33,14 @@ article {
     width: 100vw;
     padding: 1rem 2rem 1rem 1rem;
     position: sticky;
+    z-index: 2;
     top: 0;
     left: 0;
     align-items: center;
     justify-content: space-between;
     background-image: linear-gradient(to right, #6dc0e0, #029cf5); }
   .header__logo-nav {
-    width: 3rem 2rem;
+    width: 3rem;
     border-radius: 50%;
     overflow: hidden;
     border: 0.125rem solid gray; }
@@ -57,7 +59,7 @@ article {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
+    font-family: "Playball";
     list-style-type: none;
     margin-bottom: unset;
     padding: unset; }
@@ -65,7 +67,7 @@ article {
       display: inline; }
     .header__lista-li:hover {
       transform: scale(0.9);
-      color: white; }
+      color: #424242; }
   .header__link {
     text-decoration: none;
     color: white;
@@ -82,44 +84,47 @@ article {
     justify-content: flex-start;
     transform: translate(-15vw, -10vh);
     margin: 6vw;
-    padding: 0.75rem;
     border-radius: 50%;
-    width: 13rem;
-    height: 15rem;
-    border: 0.125rem solid gray;
-    background-color: white; }
+    width: 11rem;
+    height: 12rem;
+    border: 0.125rem solid gray; }
   .header__titulo {
     display: flex;
     flex-direction: row;
     transform: translate(-30vw, -10vh);
     align-items: center;
-    font-family: "Lobster";
+    font-family: "Caveat";
     text-align: center;
-    color: white;
-    border: 0.188rem solid black;
+    color: #424242;
     border-radius: 1.25rem;
+    font-weight: bolder;
     padding: 0.938rem;
-    background-color: #8b8b8b;
+    background-color: #b3b3b3;
     overflow-y: hidden; }
+    .header__titulo-h1 {
+      font-weight: bold; }
   .header__tituloB {
     display: flex;
     flex-direction: row;
     transform: translate(-45vw, -10vh);
     align-items: center;
-    font-family: "Lobster";
+    font-family: "Caveat";
     text-align: center;
-    color: white;
-    border: 0.188rem solid black;
+    color: #424242;
     border-radius: 1.25rem;
     padding: 0.938rem;
-    background-color: #8b8b8b;
+    background-color: #b3b3b3;
     overflow-y: hidden; }
+    .header__tituloB-h1 {
+      font-weight: bolder; }
   .header__tituloLogo {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    width: 100vw; }
+    width: 100vw;
+    position: relative;
+    z-index: 1; }
 
 /* FOOTER */
 .footer {
@@ -130,14 +135,13 @@ article {
   align-items: center; }
   .footer__texto {
     display: flex;
-    flex-direction: row;
     justify-content: center;
     text-align: center;
     color: white;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
     font-size: 1.563rem;
-    font-family: "Lobster";
+    font-family: "Playball";
     width: 100vw;
     text-decoration: none; }
   .footer__animacion {
@@ -202,23 +206,23 @@ article {
   .main__parrafo {
     display: flex;
     flex-flow: column;
-    background-color: #8b8b8b;
+    background-color: #b3b3b3;
     margin: 1.875rem;
     height: fit-content;
-    padding: 0.625rem;
+    padding: 1rem;
     align-items: center;
     align-self: center;
-    border: 0.125rem solid black;
     border-radius: 1.875rem;
     box-sizing: border-box; }
   .main__parrafo .article {
     display: flex;
     flex-direction: column;
-    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
+    font-family: "Overlock";
     color: white;
     text-align: justify;
     justify-content: center;
-    text-decoration: dotted; }
+    text-decoration: dotted;
+    font-weight: bolder; }
   .main__texto {
     display: flex;
     flex-direction: column;
@@ -226,13 +230,13 @@ article {
     height: fit-content;
     margin: 3.125rem;
     padding: 0.625rem;
-    border: 0.125rem outset black;
-    background-color: #8b8b8b;
+    background-color: #b3b3b3;
     border-radius: 1.875rem;
-    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
+    font-family: "Overlock";
     font-size: 1.25rem;
     color: white;
-    box-sizing: border-box; }
+    box-sizing: border-box;
+    font-weight: bolder; }
   .main__femeninos {
     display: flex;
     flex-direction: column; }
@@ -266,20 +270,19 @@ article {
     flex-direction: row; }
   .main__subtitulo-h2 {
     display: inline;
-    font-family: "Lobster";
+    font-family: "Overlock";
     margin: 1.875rem;
     padding: 0.625rem;
     vertical-align: text-top;
     text-align: center;
     color: white;
-    border: 0.125rem solid black;
     border-radius: 1.25rem;
     background-color: #157ddf;
     word-spacing: 0.625rem; }
   .main__sub {
     display: flex;
     flex-direction: column;
-    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif";
+    font-family: "Playball";
     color: black;
     text-align: center;
     align-items: center;
@@ -289,8 +292,7 @@ article {
       text-align: center;
       padding-left: 0.938rem;
       padding-right: 0.938rem;
-      color: white;
-      border: 0.125rem solid black;
+      color: #424242;
       border-radius: 0.625rem; }
   .main__video-parrafo {
     display: flex;
@@ -314,7 +316,7 @@ article {
     font-size: 1.25rem;
     margin: 0.625rem;
     text-align: center;
-    font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", "sans-serif"; }
+    font-family: "Playball"; }
   .main__imagenRef {
     border-radius: 1.875rem;
     margin: 1.25rem;
@@ -327,9 +329,10 @@ article {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: white;
+    color: #424242;
     background-color: #157ddf;
-    border: 0.125rem solid black;
+    width: 50%;
+    font-size: 1.5rem;
     border-radius: 0.938rem;
     padding: 0.625rem; }
     .main__nombre:hover {
@@ -352,15 +355,15 @@ article {
     display: flex;
     flex-direction: column;
     margin: 2.5rem;
-    padding: 0.625rem;
-    background-image: url(../Recursos/fondo-formulario.jpg);
+    padding: 1rem;
+    background-color: white;
     background-size: cover;
-    border: 0.125rem solid white; }
+    border-radius: 2rem; }
   .main__formularios {
     display: flex;
     flex-direction: column;
     margin: 0.188rem;
-    color: white;
+    color: #424242;
     font-size: 1.25rem;
     align-items: center;
     text-align: justify; }
@@ -375,7 +378,7 @@ article {
     padding: 0.313rem;
     border: 2px solid #00b176;
     border-radius: 0.625rem;
-    background-color: white; }
+    background-color: #424242; }
 
 /* FIN MAIN */
 .h1 {
@@ -383,8 +386,7 @@ article {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  text-align: center;
-  font-weight: lighter; }
+  text-align: center; }
 
 .variantes {
   display: flex;
@@ -394,13 +396,12 @@ article {
 
 .btn-enviar {
   text-decoration: none;
-  color: white;
+  color: #424242;
   font-size: 1.275rem;
   width: 100%;
   padding: 0.4rem 0.16rem;
   align-items: center;
   justify-content: center;
-  border: 2px solid #00b176;
   border-radius: 0.625rem;
   background-image: linear-gradient(to top, #1368b8, #6dc0e0); }
 

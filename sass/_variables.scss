@@ -1,8 +1,10 @@
 /* COLORES */
 
-$color-principal: white;
+$color-principal: #424242;
+$color-nav: white;
+/* #013881 */
 $color-secundario: black;
-$color-background-text: rgb(139, 139, 139);
+$color-background-text: #b3b3b3;
 $color-border-button: rgb(0, 177, 118);
 $color-subtitulo: rgb(21, 125, 223);
 $color-boton-nav: rgb(19, 104, 184);
@@ -12,12 +14,13 @@ $color-gradiente-dos: rgb(109, 192, 224);
 
 /* FUENTES */
 
-$fuente-titulo: 'Lobster';
-$fuente-subtitulo: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'sans-serif';
+$fuente-titulo: 'Caveat';
+$fuente-subtitulo: 'Playball';
+$fuente-parrafo: 'Overlock';
 
 /* EACH */
 
-$sizes: (h1: 1.875rem, h3: 1.775rem, h4: 1.5rem, article: 1.25rem);
+$sizes: (h1: 2.875rem, h2: 1.775rem, h3: 1.5rem, article: 1.25rem);
 
 @each $texto, $size in $sizes {
     #{$texto}{

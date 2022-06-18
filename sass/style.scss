@@ -37,10 +37,9 @@
         background-color: $color-background-text;
         margin: 1.875rem;
         height: fit-content;
-        padding: 0.625rem;
+        padding: 1rem;
         align-items: center;
         align-self: center;
-        border: 0.125rem solid $color-secundario;
         border-radius: 1.875rem;
         box-sizing: border-box;
     }
@@ -48,11 +47,12 @@
     &__parrafo .article {
         display: flex;
         flex-direction: column;
-        font-family: $fuente-subtitulo;
-        color: $color-principal;
+        font-family: $fuente-parrafo;
+        color: $color-nav;
         text-align: justify;
         justify-content: center;
         text-decoration: dotted;
+        font-weight: bolder;
     }
 
     &__texto {
@@ -62,13 +62,13 @@
         height: fit-content;
         margin: 3.125rem;
         padding: 0.625rem;
-        border: 0.125rem outset $color-secundario; 
         background-color: $color-background-text;
         border-radius: 1.875rem;
-        font-family: $fuente-subtitulo;
+        font-family: $fuente-parrafo;
         font-size: 1.25rem;
-        color: $color-principal;
+        color: $color-nav;
         box-sizing: border-box;    
+        font-weight: bolder;
     }
     
     /* APARATOS */
@@ -121,13 +121,12 @@
     
     &__subtitulo-h2 {
         display: inline;
-        font-family: $fuente-titulo;
+        font-family: $fuente-parrafo;
         margin: 1.875rem;
         padding: 0.625rem;
         vertical-align: text-top;
         text-align: center;
-        color: $color-principal;
-        border: 0.125rem solid $color-secundario;
+        color: $color-nav;
         border-radius: 1.25rem;
         background-color: $color-subtitulo;
         word-spacing: 0.625rem;
@@ -148,7 +147,6 @@
             padding-left: 0.938rem;
             padding-right: 0.938rem;
             color: $color-principal;
-            border: 0.125rem solid $color-secundario;
             border-radius: 0.625rem;
         }
     }
@@ -205,7 +203,8 @@
     text-decoration: none;
     color: $color-principal;
     background-color: $color-subtitulo;
-    border: 0.125rem solid $color-secundario;
+    width: 50%;
+    font-size: 1.5rem;
     border-radius: 0.938rem;
     padding: 0.625rem;
 
@@ -240,10 +239,10 @@
     display: flex;
     flex-direction: column;
     margin: 2.5rem;
-    padding: 0.625rem;
-    background-image: url(../Recursos/fondo-formulario.jpg);
+    padding: 1rem;
+    background-color: $color-nav;
     background-size: cover;
-    border: 0.125rem solid $color-principal;
+    border-radius: 2rem;
 }
 
 &__formularios {
@@ -280,7 +279,6 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-weight: lighter;
 }
 
 .variantes {
@@ -298,7 +296,6 @@
         padding: 0.4rem 0.16rem;
         align-items: center;
         justify-content: center;
-        border: 2px solid $color-border-button;
         border-radius: 0.625rem;
         background-image: linear-gradient(to top, $color-boton-nav, $color-gradiente-dos);
 }
