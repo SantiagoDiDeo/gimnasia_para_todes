@@ -1,0 +1,20 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Este es un proyecto realizado para la entrega final del curso de Coder House.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoDiDeo/gimnasia_para_todes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoDiDeo/gimnasia_para_todes/issues"
+  },
+  "homepage": "https://github.com/SantiagoDiDeo/gimnasia_para_todes#readme"
+}
